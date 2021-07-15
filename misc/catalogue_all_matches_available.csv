@@ -1,0 +1,806 @@
+year,player1,player2,player1_id,player1_country,player1_seed,player2_id,player2_country,player2_seed,court_name,court_id,num_sets_completed,match_type,match_status,match_id,tournament,league
+2019,K. KRAWIETZ/A. MIES,G. PELLA/D. SCHWARTZMAN,21648-22962,GER-GER,,16173-24162,ARG-ARG,,Court Suzanne-Lenglen,2,2,Men's Doubles,C,atp_roland_garros_2019DM003,roland_garros,atp
+2019,J. CHARDY/F. MARTIN,K. KRAWIETZ/A. MIES,11493-12085,FRA-FRA,,21648-22962,GER-GER,,Court Philippe-Chatrier,1,2,Men's Doubles,C,atp_roland_garros_2019DM001,roland_garros,atp
+2019,J. CHARDY/F. MARTIN,J. CABAL/R. FARAH,11493-12085,FRA-FRA,,9211-26918,COL-COL,3,Court Philippe-Chatrier,1,2,Men's Doubles,C,atp_roland_garros_2019DM002,roland_garros,atp
+2019,K. KHACHANOV,J. DEL POTRO,29528,RUS,10,11713,ARG,8,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM011,roland_garros,atp
+2019,D.THIEM,R.NADAL,26348,AUT,4,7792,ESP,2,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2019SM001,roland_garros,atp
+2019,D.GOFFIN,R.NADAL,19706,BEL,27,7792,ESP,2,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2019SM031,roland_garros,atp
+2019,A.HOANG,G.MONFILS,27071,FRA,,9525,FRA,14,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM021,roland_garros,atp
+2019,T.DANIEL,G.MONFILS,26227,JPN,,9525,FRA,14,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM087,roland_garros,atp
+2019,N.DJOKOVIC,H.LAAKSONEN,9801,SRB,1,19041,SUI,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM032,roland_garros,atp
+2019,N.DJOKOVIC,D.THIEM,9801,SRB,1,26348,AUT,4,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2019SM002,roland_garros,atp
+2019,S.TSITSIPAS,S.WAWRINKA,35398,GRE,6,7815,SUI,24,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2019SM012,roland_garros,atp
+2019,Y.HANFMANN,R.NADAL,22568,GER,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM127,roland_garros,atp
+2019,F. FOGNINI,A. ZVEREV,9852,ITA,9,30350,GER,5,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM009,roland_garros,atp
+2019,N.DJOKOVIC,A.ZVEREV,9801,SRB,1,30350,GER,5,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM004,roland_garros,atp
+2019,K.NISHIKORI,B.PAIRE,13059,JPN,7,20017,FRA,,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2019SM014,roland_garros,atp
+2019,S.TSITSIPAS,F.KRAJINOVIC,35398,GRE,6,20557,SRB,,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2019SM024,roland_garros,atp
+2019,L.SONEGO,R.FEDERER,35289,ITA,,2508,SUI,3,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM111,roland_garros,atp
+2019,S.BOLELLI,L.POUILLE,9677,ITA,,26325,FRA,22,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM091,roland_garros,atp
+2019,B. PAIRE,P. HERBERT,20017,FRA,,21623,FRA,,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2019SM059,roland_garros,atp
+2019,C.RUUD,R.FEDERER,36389,NOR,,2508,SUI,3,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM027,roland_garros,atp
+2019,K.NISHIKORI,Q.HALYS,13059,JPN,7,31036,FRA,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM112,roland_garros,atp
+2019,J.MILLMAN,A.ZVEREV,19769,AUS,,30350,GER,5,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2019SM079,roland_garros,atp
+2019,K.NISHIKORI,R.NADAL,13059,JPN,7,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM007,roland_garros,atp
+2019,N.DJOKOVIC,H.HURKACZ,9801,SRB,1,31976,POL,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM064,roland_garros,atp
+2019,M.KLIZAN,L.POUILLE,15883,SVK,,26325,FRA,22,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2019SM045,roland_garros,atp
+2019,JW.TSONGA,P.GOJOWCZYK,6291,FRA,,15722,GER,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM113,roland_garros,atp
+2019,O. OTTE,R. FEDERER,27419,GER,,2508,SUI,3,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM055,roland_garros,atp
+2019,T.FABBIANO,M.CILIC,13555,ITA,,11674,CRO,11,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM103,roland_garros,atp
+2019,S. WAWRINKA,R. FEDERER,7815,SUI,24,2508,SUI,3,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM006,roland_garros,atp
+2019,N.DJOKOVIC,S.CARUSO,9801,SRB,1,24574,ITA,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM016,roland_garros,atp
+2019,JI.LONDERO,R.NADAL,26285,ARG,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM015,roland_garros,atp
+2019,F.FOGNINI,R.BAUTISTA AGUT,9852,ITA,9,13354,ESP,18,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM018,roland_garros,atp
+2019,N. DJOKOVIC,J. STRUFF,9801,SRB,1,23386,GER,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM008,roland_garros,atp
+2019,D.THIEM,K.KHACHANOV,26348,AUT,4,29528,RUS,10,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM005,roland_garros,atp
+2019,K. NISHIKORI,J. TSONGA,13059,JPN,7,6291,FRA,,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2019SM056,roland_garros,atp
+2019,D.THIEM,T.PAUL,26348,AUT,4,33541,USA,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM080,roland_garros,atp
+2019,S.TSITSIPAS,M.MARTERER,35398,GRE,6,29682,GER,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM096,roland_garros,atp
+2019,D.THIEM,A.BUBLIK,26348,AUT,4,29098,KAZ,,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2019SM040,roland_garros,atp
+2019,L.MAYER,R.FEDERER,12105,ARG,,2508,SUI,3,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM013,roland_garros,atp
+2019,R.FEDERER,R.NADAL,2508,SUI,3,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM003,roland_garros,atp
+2019,Y. MADEN,R. NADAL,17608,GER,,7792,ESP,2,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM063,roland_garros,atp
+2019,D. THIEM,G. MONFILS,26348,AUT,4,9525,FRA,14,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2019SM010,roland_garros,atp
+2019,D.THIEM,P.CUEVAS,26348,AUT,4,9767,URU,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM020,roland_garros,atp
+2019,A.MANNARINO,G.MONFILS,13859,FRA,,9525,FRA,14,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2019SM043,roland_garros,atp
+2019,N.JARRY,JM.DEL POTRO,32019,CHI,,11713,ARG,8,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2019SM095,roland_garros,atp
+2019,E. MERTENS/A. SABALENKA,T. BABOS/K. MLADENOVIC,26448-33249,BEL-BLR,6,21766-19921,HUN-FRA,2,Court Suzanne-Lenglen,2,2,Women's Doubles,C,wta_roland_garros_2019DD003,roland_garros,wta
+2019,Y. DUAN/S. ZHENG,T. BABOS/K. MLADENOVIC,17955-24352,CHN-CHN,,21766-19921,HUN-FRA,2,Court Philippe-Chatrier,1,2,Women's Doubles,C,wta_roland_garros_2019DD001,roland_garros,wta
+2019,N.OSAKA,AK.SCHMIEDLOVA,30764,JPN,1,26485,SVK,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD064,roland_garros,wta
+2019,M.VONDROUSOVA,P.MARTIC,36620,CZE,,17011,CRO,31,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD007,roland_garros,wta
+2019,A.KERBER,A.POTAPOVA,11344,GER,5,38726,RUS,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD112,roland_garros,wta
+2019,P.PARMENTIER,K.BERTENS,7184,FRA,,17861,NED,4,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD111,roland_garros,wta
+2019,E.MERTENS,A.SEVASTOVA,26448,BEL,20,18348,LAT,12,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD029,roland_garros,wta
+2019,S.STEPHENS,P.HERCOG,21500,USA,7,18049,SLO,,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD024,roland_garros,wta
+2019,C.GARCIA,A.BLINKOVA,23726,FRA,24,33614,RUS,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD034,roland_garros,wta
+2019,M.KEYS,A.BARTY,24265,USA,14,27902,AUS,8,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD004,roland_garros,wta
+2019,S.KENIN,A.BARTY,35854,USA,,27902,AUS,8,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD009,roland_garros,wta
+2019,A.PETKOVIC,A.BARTY,9046,GER,,27902,AUS,8,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD019,roland_garros,wta
+2019,M.VONDROUSOVA,A.SEVASTOVA,36620,CZE,,18348,LAT,12,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD014,roland_garros,wta
+2019,A.BARTY,A.ANISIMOVA,27902,AUS,8,40607,USA,,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD002,roland_garros,wta
+2019,M.BRENGLE,Ka.PLISKOVA,14415,USA,,18274,CZE,2,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD127,roland_garros,wta
+2019,E.RODINA,M.KEYS,13235,RUS,,24265,USA,14,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD071,roland_garros,wta
+2019,S.STEPHENS,G.MUGURUZA,21500,USA,7,23872,ESP,19,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD012,roland_garros,wta
+2019,N.OSAKA,V.AZARENKA,30764,JPN,1,12595,BLR,,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD032,roland_garros,wta
+2019,B. BENCIC,L. SIEGEMUND,28865,SUI,15,9086,GER,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD052,roland_garros,wta
+2019,P.MARTIC,Ka.PLISKOVA,17011,CRO,31,18274,CZE,2,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD031,roland_garros,wta
+2019,S.WILLIAMS,V.DIATCHENKO,3370,USA,10,21248,RUS,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD072,roland_garros,wta
+2019,A.BARTY,M.VONDROUSOVA,27902,AUS,8,36620,CZE,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD001,roland_garros,wta
+2019,P. MARTIC,K. MLADENOVIC,17011,CRO,31,19921,FRA,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD062,roland_garros,wta
+2019,S.HALEP,L.TSURENKO,18033,ROU,3,21519,UKR,27,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD020,roland_garros,wta
+2019,S.CIRSTEA,K.JUVAN,14440,ROU,,40087,SLO,,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD095,roland_garros,wta
+2019,F.FERRO,K.MLADENOVIC,30524,FRA,,19921,FRA,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD125,roland_garros,wta
+2019,D.VEKIC,J.KONTA,26513,CRO,23,16944,GBR,26,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD013,roland_garros,wta
+2019,G. MUGURUZA,J. LARSSON,23872,ESP,19,12748,SWE,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD050,roland_garros,wta
+2019,S.STEPHENS,M.DOI,21500,USA,7,17949,JPN,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD096,roland_garros,wta
+2019,S.HALEP,M.LINETTE,18033,ROU,3,21355,POL,,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2019SD040,roland_garros,wta
+2019,S.HALEP,A.TOMLJANOVIC,18033,ROU,3,19962,AUS,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD080,roland_garros,wta
+2019,G.MUGURUZA,E.SVITOLINA,23872,ESP,19,23968,UKR,9,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD025,roland_garros,wta
+2019,S.WILLIAMS,S.KENIN,3370,USA,10,35854,USA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD018,roland_garros,wta
+2019,K.KANEPI,P.MARTIC,5699,EST,,17011,CRO,31,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD015,roland_garros,wta
+2019,C.WOZNIACKI,V.KUDERMETOVA,13256,DEN,13,30646,RUS,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2019SD120,roland_garros,wta
+2019,S.HALEP,A.ANISIMOVA,18033,ROU,3,40607,USA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD005,roland_garros,wta
+2019,K.SINIAKOVA,M.KEYS,28779,CZE,,24265,USA,14,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD008,roland_garros,wta
+2019,C.GARCIA,M.BARTHEL,23726,FRA,24,17343,GER,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD068,roland_garros,wta
+2019,S.STEPHENS,J.KONTA,21500,USA,7,16944,GBR,26,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD006,roland_garros,wta
+2019,N.OSAKA,K.SINIAKOVA,30764,JPN,1,28779,CZE,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2019SD016,roland_garros,wta
+2019,S. STEPHENS,S. SORRIBES TORMO,21500,USA,7,28888,ESP,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD048,roland_garros,wta
+2019,V. KUZMOVA,K. BERTENS,33675,SVK,,17861,NED,4,Court Philippe CHATRIER,1,0,Women's Singles,R,wta_roland_garros_2019SD055,roland_garros,wta
+2019,S.WILLIAMS,K.NARA,3370,USA,10,17421,JPN,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2019SD036,roland_garros,wta
+2020,D.EVANS/H.HURKACZ,M.DEMOLINER/M.MIDDELKOOP,15645-31976,GBR-POL,,17542-7985,BRA-NED,,Court Suzanne LENGLEN,2,3,Men's Doubles,C,atp_roland_garros_2020DM062,roland_garros,atp
+2020,M.PAVIC/B.SOARES,K.KRAWIETZ/A.MIES,24145-5023,CRO-BRA,7,21648-22962,GER-GER,8,Court Philippe CHATRIER,1,2,Men's Doubles,C,atp_roland_garros_2020DM001,roland_garros,atp
+2020,A.CAZAUX/H.MAYOT,L.KUBOT/M.MELO,43952-42442,FRA-FRA,,5880-4912,POL-BRA,4,Court Philippe CHATRIER,1,2,Men's Doubles,C,atp_roland_garros_2020DM055,roland_garros,atp
+2020,G.MONFILS,A.BUBLIK,9525,FRA,8,29098,KAZ,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM096,roland_garros,atp
+2020,A.BEDENE,S.TSITSIPAS,19666,SLO,,35398,GRE,5,Court Suzanne LENGLEN,2,2,Men's Singles,R,atp_roland_garros_2020SM023,roland_garros,atp
+2020,B.PAIRE,S.KWON,20017,FRA,23,34679,KOR,,Court Simonne MATHIEU,3,3,Men's Singles,C,atp_roland_garros_2020SM116,roland_garros,atp
+2020,H.GASTON,D.THIEM,38551,FRA,,26348,AUT,3,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2020SM013,roland_garros,atp
+2020,D.SCHWARTZMAN,R.NADAL,24162,ARG,12,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM003,roland_garros,atp
+2020,M.MCDONALD,R.NADAL,25127,USA,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM063,roland_garros,atp
+2020,M.FUCSOVICS,A.RUBLEV,22454,HUN,,31132,RUS,13,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM010,roland_garros,atp
+2020,D.SHAPOVALOV,G.SIMON,35246,CAN,9,7774,FRA,,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2020SM088,roland_garros,atp
+2020,J.MUNAR,S.TSITSIPAS,33529,ESP,,35398,GRE,5,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2020SM095,roland_garros,atp
+2020,S.WAWRINKA,H.GASTON,7815,SUI,16,38551,FRA,,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2020SM026,roland_garros,atp
+2020,M.KECMANOVIC,D.SCHWARTZMAN,38353,SRB,,24162,ARG,12,Court Simonne MATHIEU,3,3,Men's Singles,C,atp_roland_garros_2020SM103,roland_garros,atp
+2020,J.SOCK,D.THIEM,25481,USA,,26348,AUT,3,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2020SM055,roland_garros,atp
+2020,D.SCHWARTZMAN,D.THIEM,24162,ARG,12,26348,AUT,3,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2020SM006,roland_garros,atp
+2020,N.DJOKOVIC,DE.GALAN,9801,SRB,1,29318,COL,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM016,roland_garros,atp
+2020,E.BENCHETRIT,J.ISNER,36744,FRA,,15820,USA,21,Court 7,9,3,Men's Singles,C,atp_roland_garros_2020SM123,roland_garros,atp
+2020,R.BAUTISTA AGUT,P.CARRENO BUSTA,13354,ESP,10,21578,ESP,17,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM018,roland_garros,atp
+2020,S.KORDA,R.NADAL,40824,USA,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM015,roland_garros,atp
+2020,A.RUBLEV,S.TSITSIPAS,31132,RUS,13,35398,GRE,5,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM005,roland_garros,atp
+2020,N.DJOKOVIC,K.KHACHANOV,9801,SRB,1,29528,RUS,15,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM008,roland_garros,atp
+2020,B.CORIC,N.GOMBOS,29171,CRO,24,22505,SVK,,Court 7,9,4,Men's Singles,C,atp_roland_garros_2020SM100,roland_garros,atp
+2020,A.ZVEREV,PH.HERBERT,30350,GER,6,21623,FRA,,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2020SM056,roland_garros,atp
+2020,A.ZVEREV,M.CECCHINATO,30350,GER,6,24584,ITA,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2020SM028,roland_garros,atp
+2020,D.MEDVEDEV,M.FUCSOVICS,28836,RUS,4,22454,HUN,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM080,roland_garros,atp
+2020,N.DJOKOVIC,P.CARRENO BUSTA,9801,SRB,1,21578,ESP,17,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2020SM004,roland_garros,atp
+2020,P.CARRENO BUSTA,D.ALTMAIER,21578,ESP,17,33851,GER,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM009,roland_garros,atp
+2020,D.ALTMAIER,M.BERRETTINI,33851,GER,,29046,ITA,7,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM019,roland_garros,atp
+2020,A.ZVEREV,J.SINNER,30350,GER,6,39723,ITA,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM014,roland_garros,atp
+2020,M.CILIC,D.THIEM,11674,CRO,,26348,AUT,3,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM111,roland_garros,atp
+2020,P.CUEVAS,S.TSITSIPAS,9767,URU,,35398,GRE,5,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM047,roland_garros,atp
+2020,J.RODIONOV,J.CHARDY,36384,AUT,,11493,FRA,,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2020SM101,roland_garros,atp
+2020,L.HARRIS,M.BERRETTINI,33462,RSA,,29046,ITA,7,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM039,roland_garros,atp
+2020,A.ZVEREV,D.NOVAK,30350,GER,6,26311,AUT,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM112,roland_garros,atp
+2020,C.RUUD,D.THIEM,36389,NOR,28,26348,AUT,3,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM027,roland_garros,atp
+2020,D.SHAPOVALOV,R.CARBALLES BAENA,35246,CAN,9,26219,ESP,,Court Suzanne LENGLEN,2,5,Men's Singles,C,atp_roland_garros_2020SM044,roland_garros,atp
+2020,V.POSPISIL,M.BERRETTINI,19319,CAN,,29046,ITA,7,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2020SM079,roland_garros,atp
+2020,J.SINNER,R.NADAL,39723,ITA,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM007,roland_garros,atp
+2020,N.DJOKOVIC,M.YMER,9801,SRB,1,33597,SWE,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM064,roland_garros,atp
+2020,G.DIMITROV,S.TSITSIPAS,19689,BUL,18,35398,GRE,5,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM011,roland_garros,atp
+2020,N.DJOKOVIC,R.NADAL,9801,SRB,1,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM001,roland_garros,atp
+2020,S.TRAVAGLIA,R.NADAL,21066,ITA,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM031,roland_garros,atp
+2020,S.WAWRINKA,D.KOEPFER,7815,SUI,16,32094,GER,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2020SM052,roland_garros,atp
+2020,S.WAWRINKA,A.MURRAY,7815,SUI,16,10216,GBR,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM104,roland_garros,atp
+2020,J.SINNER,D.GOFFIN,39723,ITA,,19706,BEL,11,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM119,roland_garros,atp
+2020,N.DJOKOVIC,R.BERANKIS,9801,SRB,1,17510,LTU,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM032,roland_garros,atp
+2020,N.DJOKOVIC,S.TSITSIPAS,9801,SRB,1,35398,GRE,5,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2020SM002,roland_garros,atp
+2020,E.GERASIMOV,R.NADAL,24788,BLR,,7792,ESP,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2020SM127,roland_garros,atp
+2020,L.SONEGO,D.SCHWARTZMAN,35289,ITA,,24162,ARG,12,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2020SM012,roland_garros,atp
+2020,A. Mannarino,D. Thiem,ATPME82,FRA,,ATPTB69,AUT,5,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS116,australian_open,atp
+2020,M. Fucsovics,R. Federer,ATPF724,HUN,,ATPF324,SUI,3,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS406,australian_open,atp
+2020,N. Kyrgios,K. Khachanov,ATPKE17,AUS,23,ATPKE29,RUS,16,Melbourne Arena,3,5,Men's Singles,C,atp_australian_open_2020MS302,australian_open,atp
+2020,B. Paire,M. Cilic,ATPPD31,FRA,21,ATPC977,CRO,,Court 3,5,5,Men's Singles,C,atp_australian_open_2020MS227,australian_open,atp
+2020,R. Federer,N. Djokovic,ATPF324,SUI,3,ATPD643,SRB,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS602,australian_open,atp
+2020,J. Millman,R. Federer,ATPMH30,AUS,,ATPF324,SUI,3,Rod Laver Arena,1,5,Men's Singles,C,atp_australian_open_2020MS312,australian_open,atp
+2020,P. Cuevas,G. Simon,ATPC882,URU,,ATPSD32,FRA,,Court 3,5,3,Men's Singles,C,atp_australian_open_2020MS106,australian_open,atp
+2020,A. Davidovich Fokina,N. Gombos,ATPDH50,ESP,,ATPGB93,SVK,,Court 11,13,5,Men's Singles,C,atp_australian_open_2020MS158,australian_open,atp
+2020,S. Querrey,B. Coric,ATPQ927,USA,,ATPCG80,CRO,25,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2020MS136,australian_open,atp
+2020,P. Andujar,M. Mmoh,ATPA596,ESP,,ATPMP01,USA,,Court 10,12,3,Men's Singles,C,atp_australian_open_2020MS155,australian_open,atp
+2020,M. Berrettini,T. Sandgren,ATPBK40,ITA,8,ATPSL08,USA,,1573 Arena,4,5,Men's Singles,C,atp_australian_open_2020MS217,australian_open,atp
+2020,H. Hurkacz,D. Novak,ATPHB71,POL,31,ATPDB59,AUT,,Court 14,16,4,Men's Singles,I,atp_australian_open_2020MS145,australian_open,atp
+2020,P. Herbert,C. Norrie,ATPH996,FRA,,ATPN771,GBR,,Court 15,17,5,Men's Singles,C,atp_australian_open_2020MS126,australian_open,atp
+2020,S. Johnson,R. Federer,ATPJ386,USA,,ATPF324,SUI,3,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS148,australian_open,atp
+2020,T. Sandgren,R. Federer,ATPSL08,USA,,ATPF324,SUI,3,,0,5,Men's Singles,C,atp_australian_open_2020MS503,australian_open,atp
+2020,T. Fritz,K. Anderson,ATPFB98,USA,29,ATPA678,RSA,,1573 Arena,4,5,Men's Singles,C,atp_australian_open_2020MS207,australian_open,atp
+2020,C. O'Connell,A. Rublev,ATPO483,AUS,,ATPRE44,RUS,17,Court 19,21,4,Men's Singles,C,atp_australian_open_2020MS128,australian_open,atp
+2020,J. Millman,U. Humbert,ATPMH30,AUS,,ATPHH26,FRA,,Court 3,5,4,Men's Singles,C,atp_australian_open_2020MS146,australian_open,atp
+2020,D. Goffin,J. Chardy,ATPGB88,BEL,11,ATPCA12,FRA,,Court 3,5,3,Men's Singles,C,atp_australian_open_2020MS125,australian_open,atp
+2020,M. Ymer,K. Khachanov,ATPY268,SWE,,ATPKE29,RUS,16,Court 3,5,5,Men's Singles,C,atp_australian_open_2020MS204,australian_open,atp
+2020,D. Medvedev,P. Martinez,ATPMM58,RUS,4,ATPMO44,ESP,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS209,australian_open,atp
+2020,R. Carballes Baena,R. Berankis,ATPCF59,ESP,,ATPBE90,LTU,,Court 12,14,3,Men's Singles,C,atp_australian_open_2020MS135,australian_open,atp
+2020,F. Lopez,R. Bautista Agut,ATPL397,ESP,,ATPBD06,ESP,9,Court 13,15,3,Men's Singles,C,atp_australian_open_2020MS156,australian_open,atp
+2020,M. Safwat,G. Barrere,ATPSK47,EGY,,ATPBK24,FRA,,Court 10,12,4,Men's Singles,C,atp_australian_open_2020MS138,australian_open,atp
+2020,G. Pella,G. Barrere,ATPPC11,ARG,22,ATPBK24,FRA,,Court 13,15,4,Men's Singles,C,atp_australian_open_2020MS219,australian_open,atp
+2020,Y. Sugita,A. Rublev,ATPSE73,JPN,,ATPRE44,RUS,17,Court 19,21,3,Men's Singles,C,atp_australian_open_2020MS214,australian_open,atp
+2020,D. Schwartzman,A. Davidovich Fokina,ATPSM37,ARG,14,ATPDH50,ESP,,Court 8,10,3,Men's Singles,C,atp_australian_open_2020MS229,australian_open,atp
+2020,F. Krajinovic,R. Federer,ATPKB05,SRB,,ATPF324,SUI,3,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS224,australian_open,atp
+2020,N. Kyrgios,L. Sonego,ATPKE17,AUS,23,ATPSU87,ITA,,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS105,australian_open,atp
+2020,M. Fucsovics,T. Paul,ATPF724,HUN,,ATPPL56,USA,,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2020MS311,australian_open,atp
+2020,D. Thiem,A. Zverev,ATPTB69,AUT,5,ATPZ355,GER,7,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS601,australian_open,atp
+2020,M. Vilella Martinez,K. Khachanov,ATPV824,ESP,,ATPKE29,RUS,16,Court 19,21,4,Men's Singles,C,atp_australian_open_2020MS108,australian_open,atp
+2020,D. Koepfer,P. Martinez,ATPKE73,GER,,ATPMO44,ESP,,Court 14,16,3,Men's Singles,C,atp_australian_open_2020MS118,australian_open,atp
+2020,D. Schwartzman,N. Djokovic,ATPSM37,ARG,14,ATPD643,SRB,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS408,australian_open,atp
+2020,R. Nadal,P. Carreno Busta,ATPN409,ESP,1,ATPCD85,ESP,27,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS301,australian_open,atp
+2020,T. Sandgren,F. Fognini,ATPSL08,USA,,ATPF510,ITA,12,Melbourne Arena,3,4,Men's Singles,C,atp_australian_open_2020MS405,australian_open,atp
+2020,A. Bolt,A. Ramos-Vinolas,ATPBI81,AUS,,ATPR772,ESP,,Court 7,9,5,Men's Singles,C,atp_australian_open_2020MS115,australian_open,atp
+2020,C. Eubanks,P. Gojowczyk,ATPE865,USA,,ATPG967,GER,,Court 5,7,4,Men's Singles,C,atp_australian_open_2020MS103,australian_open,atp
+2020,K. Edmund,D. Lajovic,ATPE831,GBR,,ATPL987,SRB,24,Court 15,17,3,Men's Singles,C,atp_australian_open_2020MS160,australian_open,atp
+2020,T. Paul,G. Dimitrov,ATPPL56,USA,,ATPD875,BUL,18,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2020MS222,australian_open,atp
+2020,D. Goffin,A. Rublev,ATPGB88,BEL,11,ATPRE44,RUS,17,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2020MS307,australian_open,atp
+2020,T. Fritz,T. Griekspoor,ATPFB98,USA,29,ATPGJ37,NED,,Court 13,15,3,Men's Singles,C,atp_australian_open_2020MS113,australian_open,atp
+2020,D. Medvedev,S. Wawrinka,ATPMM58,RUS,4,ATPW367,SUI,15,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2020MS403,australian_open,atp
+2020,T. Ito,N. Djokovic,ATPI230,JPN,,ATPD643,SRB,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS232,australian_open,atp
+2020,P. Gojowczyk,P. Carreno Busta,ATPG967,GER,,ATPCD85,ESP,27,Court 7,9,4,Men's Singles,C,atp_australian_open_2020MS202,australian_open,atp
+2020,M. Kecmanovic,A. Seppi,ATPKI95,SRB,,ATPSA93,ITA,,Court 10,12,3,Men's Singles,C,atp_australian_open_2020MS123,australian_open,atp
+2020,R. Opelka,F. Fognini,ATPO522,USA,,ATPF510,ITA,12,1573 Arena,4,5,Men's Singles,C,atp_australian_open_2020MS140,australian_open,atp
+2020,A. Seppi,S. Wawrinka,ATPSA93,ITA,,ATPW367,SUI,15,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2020MS212,australian_open,atp
+2020,P. Kohlschreiber,M. Giron,ATPK435,GER,,ATPGC88,USA,,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS150,australian_open,atp
+2020,M. Berrettini,A. Harris,ATPBK40,ITA,8,ATPHB29,AUS,,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS133,australian_open,atp
+2020,J. Isner,A. Tabilo,ATPI186,USA,19,ATPTE30,CHI,,Court 22,24,3,Men's Singles,C,atp_australian_open_2020MS211,australian_open,atp
+2020,D. Thiem,N. Djokovic,ATPTB69,AUT,5,ATPD643,SRB,2,Rod Laver Arena,0,5,Men's Singles,C,atp_australian_open_2020MS701,australian_open,atp
+2020,B. Paire,C. Stebe,ATPPD31,FRA,21,ATPSK94,GER,,Court 22,24,4,Men's Singles,I,atp_australian_open_2020MS153,australian_open,atp
+2020,F. Verdasco,E. Donskoy,ATPV306,ESP,,ATPD864,RUS,,Court 14,16,3,Men's Singles,C,atp_australian_open_2020MS130,australian_open,atp
+2020,R. Nadal,F. Delbonis,ATPN409,ESP,1,ATPD874,ARG,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS201,australian_open,atp
+2020,A. Popyrin,J. Tsonga,ATPP09Z,AUS,,ATPT786,FRA,28,Melbourne Arena,3,3,Men's Singles,R,atp_australian_open_2020MS120,australian_open,atp
+2020,L. Mayer,T. Paul,ATPMD56,ARG,,ATPPL56,USA,,Court 12,14,4,Men's Singles,C,atp_australian_open_2020MS143,australian_open,atp
+2020,T. Sandgren,S. Querrey,ATPSL08,USA,,ATPQ927,USA,,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2020MS309,australian_open,atp
+2020,I. Karlovic,V. Pospisil,ATPK336,CRO,,ATPPD07,CAN,,Court 22,24,3,Men's Singles,C,atp_australian_open_2020MS110,australian_open,atp
+2020,T. Fritz,D. Thiem,ATPFB98,USA,29,ATPTB69,AUT,5,Margaret Court Arena,2,4,Men's Singles,C,atp_australian_open_2020MS304,australian_open,atp
+2020,D. Evans,Y. Nishioka,ATPE687,GBR,30,ATPN732,JPN,,Court 19,21,3,Men's Singles,C,atp_australian_open_2020MS231,australian_open,atp
+2020,M. Cilic,R. Bautista Agut,ATPC977,CRO,,ATPBD06,ESP,9,Melbourne Arena,3,5,Men's Singles,C,atp_australian_open_2020MS314,australian_open,atp
+2020,T. Ito,P. Gunneswaran,ATPI230,JPN,,ATPGA94,IND,,Court 5,7,3,Men's Singles,C,atp_australian_open_2020MS163,australian_open,atp
+2020,M. Fucsovics,J. Sinner,ATPF724,HUN,,ATPS0AG,ITA,,Court 22,24,3,Men's Singles,C,atp_australian_open_2020MS221,australian_open,atp
+2020,M. Raonic,N. Djokovic,ATPR975,CAN,32,ATPD643,SRB,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS504,australian_open,atp
+2020,J. Sinner,M. Purcell,ATPS0AG,ITA,,ATPPH71,AUS,,Court 7,9,3,Men's Singles,C,atp_australian_open_2020MS142,australian_open,atp
+2020,J. Isner,T. Monteiro,ATPI186,USA,19,ATPMJ08,BRA,,Court 8,10,4,Men's Singles,C,atp_australian_open_2020MS121,australian_open,atp
+2020,J. Munar,A. Popyrin,ATPMU94,ESP,,ATPP09Z,AUS,,Court 3,5,3,Men's Singles,C,atp_australian_open_2020MS210,australian_open,atp
+2020,C. Ruud,E. Gerasimov,ATPRH16,NOR,,ATPGC89,BLR,,Court 13,15,5,Men's Singles,C,atp_australian_open_2020MS131,australian_open,atp
+2020,L. Giustino,M. Raonic,ATPGA79,ITA,,ATPR975,CAN,32,Court 19,21,3,Men's Singles,C,atp_australian_open_2020MS152,australian_open,atp
+2020,D. Schwartzman,D. Lajovic,ATPSM37,ARG,14,ATPL987,SRB,24,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS315,australian_open,atp
+2020,Y. Nishioka,L. Djere,ATPN732,JPN,,ATPDB63,SRB,,Court 15,17,4,Men's Singles,C,atp_australian_open_2020MS162,australian_open,atp
+2020,R. Nadal,H. Dellien,ATPN409,ESP,1,ATPDA31,BOL,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS101,australian_open,atp
+2020,J. Thompson,F. Fognini,ATPTC61,AUS,,ATPF510,ITA,12,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2020MS220,australian_open,atp
+2020,J. Duckworth,A. Bedene,ATPD994,AUS,,ATPBH09,SLO,,Court 8,10,5,Men's Singles,C,atp_australian_open_2020MS111,australian_open,atp
+2020,R. Nadal,N. Kyrgios,ATPN409,ESP,1,ATPKE17,AUS,23,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS401,australian_open,atp
+2020,F. Verdasco,A. Zverev,ATPV306,ESP,,ATPZ355,GER,7,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS308,australian_open,atp
+2020,D. Medvedev,A. Popyrin,ATPMM58,RUS,4,ATPP09Z,AUS,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS305,australian_open,atp
+2020,M. Polmans,D. Lajovic,ATPPG94,AUS,,ATPL987,SRB,24,Court 3,5,3,Men's Singles,C,atp_australian_open_2020MS230,australian_open,atp
+2020,J. Isner,S. Wawrinka,ATPI186,USA,19,ATPW367,SUI,15,Court 3,5,1,Men's Singles,R,atp_australian_open_2020MS306,australian_open,atp
+2020,G. Monfils,D. Thiem,ATPMC65,FRA,10,ATPTB69,AUT,5,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS402,australian_open,atp
+2020,E. Gulbis,F. Auger-Aliassime,ATPG858,LAT,,ATPAG37,CAN,20,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2020MS112,australian_open,atp
+2020,D. Evans,M. McDonald,ATPE687,GBR,30,ATPMK66,USA,,Court 14,16,5,Men's Singles,C,atp_australian_open_2020MS161,australian_open,atp
+2020,F. Delbonis,J. Sousa,ATPD874,ARG,,ATPSH90,POR,,Court 19,21,3,Men's Singles,C,atp_australian_open_2020MS102,australian_open,atp
+2020,Y. Nishioka,N. Djokovic,ATPN732,JPN,,ATPD643,SRB,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS316,australian_open,atp
+2020,H. Hurkacz,J. Millman,ATPHB71,POL,31,ATPMH30,AUS,,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS223,australian_open,atp
+2020,D. Goffin,P. Herbert,ATPGB88,BEL,11,ATPH996,FRA,,Court 8,10,5,Men's Singles,C,atp_australian_open_2020MS213,australian_open,atp
+2020,M. Cecchinato,A. Zverev,ATPCF01,ITA,,ATPZ355,GER,7,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS132,australian_open,atp
+2020,C. Garin,S. Travaglia,ATPGD64,CHI,,ATPTA12,ITA,,Court 11,13,3,Men's Singles,C,atp_australian_open_2020MS151,australian_open,atp
+2020,N. Kyrgios,G. Simon,ATPKE17,AUS,23,ATPSD32,FRA,,Melbourne Arena,3,4,Men's Singles,C,atp_australian_open_2020MS203,australian_open,atp
+2020,D. Shapovalov,M. Fucsovics,ATPSU55,CAN,13,ATPF724,HUN,,Margaret Court Arena,2,4,Men's Singles,C,atp_australian_open_2020MS141,australian_open,atp
+2020,A. Tabilo,D. Galan,ATPTE30,CHI,,ATPGE33,COL,,Court 5,7,5,Men's Singles,C,atp_australian_open_2020MS122,australian_open,atp
+2020,D. Schwartzman,L. Harris,ATPSM37,ARG,14,ATPHG86,RSA,,Court 8,10,3,Men's Singles,C,atp_australian_open_2020MS157,australian_open,atp
+2020,T. Sandgren,M. Trungelliti,ATPSL08,USA,,ATPTA29,ARG,,Court 14,16,3,Men's Singles,C,atp_australian_open_2020MS134,australian_open,atp
+2020,J. Thompson,A. Bublik,ATPTC61,AUS,,ATPBK92,KAZ,,Court 3,5,3,Men's Singles,C,atp_australian_open_2020MS139,australian_open,atp
+2020,R. Berankis,S. Querrey,ATPBE90,LTU,,ATPQ927,USA,,Court 22,24,4,Men's Singles,C,atp_australian_open_2020MS218,australian_open,atp
+2020,N. Basilashvili,F. Verdasco,ATPBG23,GEO,26,ATPV306,ESP,,Court 13,15,4,Men's Singles,C,atp_australian_open_2020MS215,australian_open,atp
+2020,N. Basilashvili,S. Kwon,ATPBG23,GEO,26,ATPKF17,KOR,,Court 12,14,5,Men's Singles,C,atp_australian_open_2020MS129,australian_open,atp
+2020,D. Dzumhur,S. Wawrinka,ATPD923,BIH,,ATPW367,SUI,15,Melbourne Arena,3,4,Men's Singles,C,atp_australian_open_2020MS124,australian_open,atp
+2020,Q. Halys,F. Krajinovic,ATPHB64,FRA,,ATPKB05,SRB,,Court 22,24,5,Men's Singles,C,atp_australian_open_2020MS147,australian_open,atp
+2020,G. Monfils,I. Karlovic,ATPMC65,FRA,10,ATPK336,CRO,,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2020MS205,australian_open,atp
+2020,A. Bolt,D. Thiem,ATPBI81,AUS,,ATPTB69,AUT,5,Melbourne Arena,3,5,Men's Singles,C,atp_australian_open_2020MS208,australian_open,atp
+2020,R. Nadal,D. Thiem,ATPN409,ESP,1,ATPTB69,AUT,5,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS501,australian_open,atp
+2020,I. Ivashka,K. Anderson,ATPI305,BLR,,ATPA678,RSA,,1573 Arena,4,5,Men's Singles,C,atp_australian_open_2020MS114,australian_open,atp
+2020,A. Rublev,A. Zverev,ATPRE44,RUS,17,ATPZ355,GER,7,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS404,australian_open,atp
+2020,M. Mmoh,R. Bautista Agut,ATPMP01,USA,,ATPBD06,ESP,9,Melbourne Arena,3,4,Men's Singles,C,atp_australian_open_2020MS228,australian_open,atp
+2020,J. Kovalik,P. Carreno Busta,ATPKC04,SVK,,ATPCD85,ESP,27,Court 13,15,4,Men's Singles,C,atp_australian_open_2020MS104,australian_open,atp
+2020,G. Monfils,Y. Lu,ATPMC65,FRA,10,ATPL575,TPE,,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2020MS109,australian_open,atp
+2020,G. Pella,F. Fognini,ATPPC11,ARG,22,ATPF510,ITA,12,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS310,australian_open,atp
+2020,C. Garin,M. Raonic,ATPGD64,CHI,,ATPR975,CAN,32,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS226,australian_open,atp
+2020,S. Tsitsipas,M. Raonic,ATPTE51,GRE,6,ATPR975,CAN,32,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS313,australian_open,atp
+2020,Y. Uchiyama,M. Ymer,ATPU134,JPN,,ATPY268,SWE,,Court 11,13,3,Men's Singles,C,atp_australian_open_2020MS107,australian_open,atp
+2020,J. Struff,N. Djokovic,ATPSL28,GER,,ATPD643,SRB,2,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS164,australian_open,atp
+2020,M. Raonic,M. Cilic,ATPR975,CAN,32,ATPC977,CRO,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2020MS407,australian_open,atp
+2020,D. Medvedev,F. Tiafoe,ATPMM58,RUS,4,ATPTD51,USA,,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS117,australian_open,atp
+2020,G. Monfils,E. Gulbis,ATPMC65,FRA,10,ATPG858,LAT,,Melbourne Arena,3,3,Men's Singles,C,atp_australian_open_2020MS303,australian_open,atp
+2020,Y. Sugita,E. Benchetrit,ATPSE73,JPN,,ATPBT68,FRA,,Court 11,13,3,Men's Singles,C,atp_australian_open_2020MS127,australian_open,atp
+2020,J. Londero,G. Dimitrov,ATPLB84,ARG,,ATPD875,BUL,18,Melbourne Arena,3,4,Men's Singles,C,atp_australian_open_2020MS144,australian_open,atp
+2020,S. Wawrinka,A. Zverev,ATPW367,SUI,15,ATPZ355,GER,7,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2020MS502,australian_open,atp
+2020,A. Bedene,E. Gulbis,ATPBH09,SLO,,ATPG858,LAT,,Court 19,21,3,Men's Singles,C,atp_australian_open_2020MS206,australian_open,atp
+2020,M. Polmans,M. Kukushkin,ATPPG94,AUS,,ATPK926,KAZ,,Court 7,9,5,Men's Singles,C,atp_australian_open_2020MS159,australian_open,atp
+2020,M. Cilic,C. Moutet,ATPC977,CRO,,ATPMW02,FRA,,Court 19,21,2,Men's Singles,I,atp_australian_open_2020MS154,australian_open,atp
+2020,G. Pella,J. Smith,ATPPC11,ARG,22,ATPSJ55,AUS,,Court 8,10,3,Men's Singles,C,atp_australian_open_2020MS137,australian_open,atp
+2020,E. Gerasimov,A. Zverev,ATPGC89,BLR,,ATPZ355,GER,7,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2020MS216,australian_open,atp
+2020,M.CECCHINATO,K.COPPEJANS,24584,ITA,5,26226,BEL,,Court 12,14,2,Qualifications Men's Singles,C,atp_roland_garros_2020QM020,roland_garros,atp
+2020,M.MMOH,R.OLIVO,31095,USA,,20782,ARG,,Court 4,6,3,Qualifications Men's Singles,C,atp_roland_garros_2020QM019,roland_garros,atp
+2020,J.SOCK,F.BAGNIS,25481,USA,,18533,ARG,24,Court 11,13,3,Qualifications Men's Singles,C,atp_roland_garros_2020QM047,roland_garros,atp
+2020,R.BEMELMANS,D.ALTMAIER,15156,BEL,,33851,GER,,Court 12,14,3,Qualifications Men's Singles,C,atp_roland_garros_2020QM029,roland_garros,atp
+2020,A.GUARACHI/D.KRAWCZYK,T.BABOS/K.MLADENOVIC,30554-25892,CHI-USA,14,21766-19921,HUN-FRA,2,Court Philippe CHATRIER,1,2,Women's Doubles,C,wta_roland_garros_2020DD001,roland_garros,wta
+2020,D.COLLINS,G.MUGURUZA,30464,USA,,23872,ESP,11,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD025,roland_garros,wta
+2020,P.KVITOVA,L.FERNANDEZ,18124,CZE,7,43643,CAN,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD028,roland_garros,wta
+2020,E.SVITOLINA,V.GRACHEVA,23968,UKR,3,40609,RUS,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD080,roland_garros,wta
+2020,S.HALEP,I.SWIATEK,18033,ROU,1,40613,POL,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD008,roland_garros,wta
+2020,E.SVITOLINA,N.PODOROSKA,23968,UKR,3,30797,ARG,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD005,roland_garros,wta
+2020,D.COLLINS,S.KENIN,30464,USA,,35854,USA,4,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD006,roland_garros,wta
+2020,S.HALEP,A.ANISIMOVA,18033,ROU,1,40607,USA,25,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD016,roland_garros,wta
+2020,F.FERRO,PM.TIG,30524,FRA,,26506,ROU,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD026,roland_garros,wta
+2020,A.BOGDAN,S.KENIN,19858,ROU,,35854,USA,4,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD055,roland_garros,wta
+2020,C.PAQUET,A.CORNET,28266,FRA,,13263,FRA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD118,roland_garros,wta
+2020,V.AZARENKA,D.KOVINIC,12595,BLR,10,25890,MNE,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD088,roland_garros,wta
+2020,E.SVITOLINA,E.ALEXANDROVA,23968,UKR,3,30361,RUS,27,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD020,roland_garros,wta
+2020,K.AHN,S.WILLIAMS,23598,USA,,3370,USA,6,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD095,roland_garros,wta
+2020,J.OSTAPENKO,Ka.PLISKOVA,28758,LAT,,18274,CZE,2,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD063,roland_garros,wta
+2020,E.SVITOLINA,C.GARCIA,23968,UKR,3,23726,FRA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD010,roland_garros,wta
+2020,F.FERRO,S.KENIN,30524,FRA,,35854,USA,4,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD013,roland_garros,wta
+2020,S.KENIN,P.KVITOVA,35854,USA,4,18124,CZE,7,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD003,roland_garros,wta
+2020,A.SABALENKA,J.PEGULA,33249,BLR,8,21863,USA,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD096,roland_garros,wta
+2020,B.PERA,A.ANISIMOVA,28763,USA,,40607,USA,25,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD033,roland_garros,wta
+2020,E.SVITOLINA,R.ZARAZUA,23968,UKR,3,31392,MEX,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD040,roland_garros,wta
+2020,M.BOUZKOVA,K.KANEPI,31217,CZE,,5699,EST,,Court 7,9,3,Women's Singles,C,wta_roland_garros_2020SD086,roland_garros,wta
+2020,I.SWIATEK,N.PODOROSKA,40613,POL,,30797,ARG,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD002,roland_garros,wta
+2020,O.JABEUR,D.COLLINS,23770,TUN,30,30464,USA,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD012,roland_garros,wta
+2020,M.SHERIF,Ka.PLISKOVA,28369,EGY,,18274,CZE,2,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD127,roland_garros,wta
+2020,M.GASPARYAN,E.MERTENS,24248,RUS,,26448,BEL,16,Court Simonne MATHIEU,3,2,Women's Singles,C,wta_roland_garros_2020SD087,roland_garros,wta
+2020,Kr.PLISKOVA,G.MUGURUZA,18275,CZE,,23872,ESP,11,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD051,roland_garros,wta
+2020,S.HALEP,I.BEGU,18033,ROU,1,16659,ROU,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD032,roland_garros,wta
+2020,E.RYBAKINA,F.FERRO,38569,KAZ,14,30524,FRA,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD052,roland_garros,wta
+2020,A.KONTAVEIT,C.GARCIA,26434,EST,17,23726,FRA,,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD084,roland_garros,wta
+2020,AK.SCHMIEDLOVA,V.WILLIAMS,26485,SVK,,2332,USA,,Court Simonne MATHIEU,3,2,Women's Singles,C,wta_roland_garros_2020SD089,roland_garros,wta
+2020,C.GARCIA,E.MERTENS,23726,FRA,,26448,BEL,16,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2020SD021,roland_garros,wta
+2020,C.GARCIA,A.SASNOVICH,23726,FRA,,26058,BLR,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD042,roland_garros,wta
+2020,J.KONTA,C.GAUFF,16944,GBR,9,44185,USA,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD072,roland_garros,wta
+2020,I.SWIATEK,S.KENIN,40613,POL,,35854,USA,4,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD001,roland_garros,wta
+2020,L.SIEGEMUND,K.MLADENOVIC,9086,GER,,19921,FRA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD122,roland_garros,wta
+2020,K.ZAVATSKA,K.BERTENS,38594,UKR,,17861,NED,5,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2020SD079,roland_garros,wta
+2020,S.HALEP,S.SORRIBES TORMO,18033,ROU,1,28888,ESP,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD064,roland_garros,wta
+2020,P.KVITOVA,L.SIEGEMUND,18124,CZE,7,9086,GER,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD007,roland_garros,wta
+2020,A.KALINSKAYA,E.BOUCHARD,33663,RUS,,21776,CAN,,Court 7,9,2,Women's Singles,C,wta_roland_garros_2020SD069,roland_garros,wta
+2020,I.BARA,S.KENIN,27898,ROU,,35854,USA,4,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD027,roland_garros,wta
+2020,P.KVITOVA,O.DODIN,18124,CZE,7,28687,FRA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD112,roland_garros,wta
+2020,L.SAMSONOVA,S.KENIN,33732,RUS,,35854,USA,4,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2020SD111,roland_garros,wta
+2020,M.TREVISAN,K.BERTENS,21892,ITA,,17861,NED,5,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2020SD009,roland_garros,wta
+2020,I.SWIATEK,M.TREVISAN,40613,POL,,21892,ITA,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD004,roland_garros,wta
+2020,P.KVITOVA,S.ZHANG,18124,CZE,7,11362,CHN,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD014,roland_garros,wta
+2020,K.SINIAKOVA,K.BERTENS,28779,CZE,,17861,NED,5,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2020SD019,roland_garros,wta
+2020,A. Barty,P. Hercog,WTA318033,AUS,1,WTA313968,SLO,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS201,australian_open,wta
+2020,S. Cirstea,B. Strycova,WTA312469,ROU,,WTA190879,CZE,32,Court 22,24,2,Women's Singles,C,wta_australian_open_2020WS120,australian_open,wta
+2020,C. Bellis,T. Maria,WTA322526,USA,,WTA310440,GER,,Court 14,16,2,Women's Singles,C,wta_australian_open_2020WS143,australian_open,wta
+2020,S. Zhang,C. McNally,WTA311779,CHN,,WTA325725,USA,,Court 13,15,2,Women's Singles,C,wta_australian_open_2020WS211,australian_open,wta
+2020,S. Kenin,G. Muguruza,WTA320942,USA,14,WTA316239,ESP,,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS701,australian_open,wta
+2020,A. Anisimova,Z. Diyas,WTA326384,USA,21,WTA315696,KAZ,,Court 19,21,3,Women's Singles,C,wta_australian_open_2020WS153,australian_open,wta
+2020,F. Ferro,A. Van Uytvanck,WTA319969,FRA,,WTA317819,BEL,,Court 15,17,2,Women's Singles,C,wta_australian_open_2020WS130,australian_open,wta
+2020,Z. Diyas,K. Bertens,WTA315696,KAZ,,WTA314584,NED,9,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS314,australian_open,wta
+2020,L. Siegemund,C. Vandeweghe,WTA310926,GER,,WTA314464,USA,,Court 22,24,2,Women's Singles,C,wta_australian_open_2020WS163,australian_open,wta
+2020,E. Mertens,H. Watson,WTA317964,BEL,16,WTA316981,GBR,,Court 22,24,2,Women's Singles,C,wta_australian_open_2020WS221,australian_open,wta
+2020,B. Bencic,A. Kontaveit,WTA319001,SUI,6,WTA318425,EST,28,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS309,australian_open,wta
+2020,M. Linette,A. Rus,WTA315130,POL,,WTA313349,NED,,Court 5,7,3,Women's Singles,C,wta_australian_open_2020WS110,australian_open,wta
+2020,E. Alexandrova,P. Kvitova,WTA319007,RUS,25,WTA314206,CZE,7,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS304,australian_open,wta
+2020,A. Pavlyuchenkova,T. Townsend,WTA313796,RUS,30,WTA318609,USA,,Court 12,14,2,Women's Singles,C,wta_australian_open_2020WS231,australian_open,wta
+2020,O. Jabeur,C. Wozniacki,WTA316847,TUN,,WTA313402,DEN,,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS307,australian_open,wta
+2020,C. Gauff,S. Kenin,WTA328560,USA,,WTA320942,USA,14,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS403,australian_open,wta
+2020,L. Siegemund,Ka. Pliskova,WTA310926,GER,,WTA313974,CZE,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS232,australian_open,wta
+2020,A. Sasnovich,G. Minnen,WTA317790,BLR,,WTA321454,BEL,,Court 15,17,3,Women's Singles,C,wta_australian_open_2020WS103,australian_open,wta
+2020,E. Cocciaretto,A. Kerber,WTA327909,ITA,,WTA311470,GER,17,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS160,australian_open,wta
+2020,C. Bellis,K. Muchova,WTA322526,USA,,WTA322191,CZE,20,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS222,australian_open,wta
+2020,A. Li,S. Kenin,WTA326096,USA,,WTA320942,USA,14,Court 3,5,2,Women's Singles,C,wta_australian_open_2020WS212,australian_open,wta
+2020,L. Davis,L. Fernandez,WTA317414,USA,,WTA326735,CAN,,Court 5,7,2,Women's Singles,C,wta_australian_open_2020WS150,australian_open,wta
+2020,B. Bencic,A. Schmiedlova,WTA319001,SUI,6,WTA318203,SVK,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS133,australian_open,wta
+2020,G. Minnen,E. Rybakina,WTA321454,BEL,,WTA324166,KAZ,29,Court 14,16,2,Women's Singles,C,wta_australian_open_2020WS202,australian_open,wta
+2020,A. Li,L. Cabrera,WTA326096,USA,,WTA320013,AUS,,Court 3,5,2,Women's Singles,C,wta_australian_open_2020WS123,australian_open,wta
+2020,C. Suárez Navarro,A. Sabalenka,WTA311338,ESP,,WTA320760,BLR,11,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS140,australian_open,wta
+2020,S. Sorribes Tormo,V. Kudermetova,WTA318872,ESP,,WTA319526,RUS,,Court 19,21,3,Women's Singles,C,wta_australian_open_2020WS135,australian_open,wta
+2020,I. Begu,K. Bertens,WTA313169,ROU,,WTA314584,NED,9,Court 3,5,2,Women's Singles,C,wta_australian_open_2020WS156,australian_open,wta
+2020,A. Cornet,M. Niculescu,WTA312121,FRA,,WTA310775,ROU,,Court 12,14,3,Women's Singles,C,wta_australian_open_2020WS138,australian_open,wta
+2020,D. Vekic,A. Cornet,WTA318516,CRO,19,WTA312121,FRA,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS219,australian_open,wta
+2020,C. Wozniacki,D. Yastremska,WTA313402,DEN,,WTA324261,UKR,23,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS214,australian_open,wta
+2020,K. Juvan,D. Yastremska,WTA324702,SLO,,WTA324261,UKR,23,Court 13,15,2,Women's Singles,C,wta_australian_open_2020WS128,australian_open,wta
+2020,Y. Putintseva,S. Hsieh,WTA317683,KAZ,,WTA310053,TPE,,Court 15,17,2,Women's Singles,C,wta_australian_open_2020WS146,australian_open,wta
+2020,J. Konta,O. Jabeur,WTA313907,GBR,12,WTA316847,TUN,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS125,australian_open,wta
+2020,J. Goerges,P. Martic,WTA313381,GER,,WTA313711,CRO,13,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS204,australian_open,wta
+2020,N. Osaka,S. Zheng,WTA319998,JPN,3,WTA316286,CHN,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS209,australian_open,wta
+2020,S. Zheng,A. Kalinskaya,WTA316286,CHN,,WTA323942,RUS,,Court 11,13,2,Women's Singles,C,wta_australian_open_2020WS118,australian_open,wta
+2020,A. Kerber,A. Pavlyuchenkova,WTA311470,GER,17,WTA313796,RUS,30,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2020WS408,australian_open,wta
+2020,A. Barty,E. Rybakina,WTA318033,AUS,1,WTA324166,KAZ,29,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS301,australian_open,wta
+2020,A. Kontaveit,I. Swiatek,WTA318425,EST,28,WTA326408,POL,,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS405,australian_open,wta
+2020,P. Badosa,J. Larsson,WTA320124,ESP,,WTA311593,SWE,,Court 22,24,2,Women's Singles,C,wta_australian_open_2020WS115,australian_open,wta
+2020,S. Kuznetsova,C. Giorgi,WTA110552,RUS,,WTA314610,ITA,,Court 19,21,2,Women's Singles,C,wta_australian_open_2020WS229,australian_open,wta
+2020,H. Dart,S. Halep,WTA319489,GBR,,WTA314320,ROU,4,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS224,australian_open,wta
+2020,A. Riske,Y. Wang,WTA312850,USA,18,WTA317510,CHN,,Court 8,10,3,Women's Singles,C,wta_australian_open_2020WS105,australian_open,wta
+2020,E. Mertens,C. Bellis,WTA317964,BEL,16,WTA322526,USA,,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS311,australian_open,wta
+2020,A. Barty,S. Kenin,WTA318033,AUS,1,WTA320942,USA,14,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS601,australian_open,wta
+2020,C. McHale,P. Martic,WTA314917,USA,,WTA313711,CRO,13,Court 7,9,2,Women's Singles,C,wta_australian_open_2020WS108,australian_open,wta
+2020,Z. Diyas,A. Blinkova,WTA315696,KAZ,,WTA324267,RUS,,Court 3,5,3,Women's Singles,C,wta_australian_open_2020WS227,australian_open,wta
+2020,S. Halep,G. Muguruza,WTA314320,ROU,4,WTA316239,ESP,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS602,australian_open,wta
+2020,Y. Putintseva,S. Halep,WTA317683,KAZ,,WTA314320,ROU,4,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS312,australian_open,wta
+2020,V. Golubic,L. Zhu,WTA316296,SUI,,WTA317306,CHN,,Court 13,15,3,Women's Singles,C,wta_australian_open_2020WS106,australian_open,wta
+2020,K. Siniakova,P. Kvitova,WTA320301,CZE,,WTA314206,CZE,7,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS116,australian_open,wta
+2020,E. Mertens,S. Halep,WTA317964,BEL,16,WTA314320,ROU,4,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS406,australian_open,wta
+2020,A. Riske,J. Goerges,WTA312850,USA,18,WTA313381,GER,,1573 Arena,4,3,Women's Singles,C,wta_australian_open_2020WS302,australian_open,wta
+2020,D. Collins,V. Diatchenko,WTA316925,USA,26,WTA315030,RUS,,Court 22,24,3,Women's Singles,C,wta_australian_open_2020WS145,australian_open,wta
+2020,M. Brengle,C. Garcia,WTA312328,USA,,WTA315391,FRA,,Court 12,14,3,Women's Singles,C,wta_australian_open_2020WS126,australian_open,wta
+2020,J. Brady,S. Halep,WTA318358,USA,,WTA314320,ROU,4,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS148,australian_open,wta
+2020,A. Kontaveit,S. Halep,WTA318425,EST,28,WTA314320,ROU,4,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS503,australian_open,wta
+2020,E. Alexandrova,B. Krejcikova,WTA319007,RUS,25,WTA318314,CZE,,Court 3,5,2,Women's Singles,C,wta_australian_open_2020WS207,australian_open,wta
+2020,A. Lottner,C. Giorgi,WTA318494,GER,,WTA314610,ITA,,Court 11,13,2,Women's Singles,C,wta_australian_open_2020WS158,australian_open,wta
+2020,A. Sharma,A. Kontaveit,WTA319696,AUS,,WTA318425,EST,28,Court 8,10,2,Women's Singles,C,wta_australian_open_2020WS136,australian_open,wta
+2020,K. Bondarenko,A. Rodionova,WTA020702,UKR,,WTA312413,AUS,,Court 8,10,3,Women's Singles,C,wta_australian_open_2020WS155,australian_open,wta
+2020,B. Bencic,J. Ostapenko,WTA319001,SUI,6,WTA319939,LAT,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS217,australian_open,wta
+2020,G. Muguruza,K. Bertens,WTA316239,ESP,,WTA314584,NED,9,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS407,australian_open,wta
+2020,N. Osaka,M. Bouzkova,WTA319998,JPN,3,WTA320983,CZE,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS117,australian_open,wta
+2020,M. Keys,M. Sakkari,WTA316959,USA,10,WTA318312,GRE,22,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS303,australian_open,wta
+2020,G. Muguruza,A. Tomljanovic,WTA316239,ESP,,WTA315232,AUS,,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS226,australian_open,wta
+2020,E. Svitolina,G. Muguruza,WTA316738,UKR,5,WTA316239,ESP,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS313,australian_open,wta
+2020,J. Goerges,V. Kuzmova,WTA313381,GER,,WTA322277,SVK,,Court 5,7,2,Women's Singles,C,wta_australian_open_2020WS107,australian_open,wta
+2020,K. Mladenovic,Ka. Pliskova,WTA315616,FRA,,WTA313974,CZE,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS164,australian_open,wta
+2020,K. Kozlova,P. Hon,WTA316739,UKR,,WTA320543,AUS,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS159,australian_open,wta
+2020,J. Paolini,A. Blinkova,WTA319280,ITA,,WTA324267,RUS,,Court 14,16,2,Women's Singles,C,wta_australian_open_2020WS154,australian_open,wta
+2020,D. Vekic,M. Sharapova,WTA318516,CRO,19,WTA310137,RUS,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS137,australian_open,wta
+2020,T. Zidansek,S. Williams,WTA323079,SLO,,WTA230234,USA,8,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS216,australian_open,wta
+2020,K. Ahn,C. Wozniacki,WTA316159,USA,,WTA313402,DEN,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS127,australian_open,wta
+2020,K. Flipkens,K. Muchova,WTA310331,BEL,,WTA322191,CZE,20,Court 13,15,3,Women's Singles,C,wta_australian_open_2020WS144,australian_open,wta
+2020,E. Svitolina,K. Boulter,WTA316738,UKR,5,WTA319125,GBR,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS149,australian_open,wta
+2020,S. Kenin,O. Jabeur,WTA320942,USA,14,WTA316847,TUN,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS502,australian_open,wta
+2020,N. Hibino,M. Sakkari,WTA320238,JPN,,WTA318312,GRE,22,Court 8,10,2,Women's Singles,C,wta_australian_open_2020WS206,australian_open,wta
+2020,Q. Wang,P. Parmentier,WTA314429,CHN,27,WTA160515,FRA,,Court 10,12,2,Women's Singles,C,wta_australian_open_2020WS129,australian_open,wta
+2020,M. Trevisan,S. Kenin,WTA316266,ITA,,WTA320942,USA,14,Court 3,5,2,Women's Singles,C,wta_australian_open_2020WS124,australian_open,wta
+2020,H. Dart,M. Doi,WTA319489,GBR,,WTA314237,JPN,,Court 11,13,3,Women's Singles,C,wta_australian_open_2020WS147,australian_open,wta
+2020,M. Keys,A. Rus,WTA316959,USA,10,WTA313349,NED,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS205,australian_open,wta
+2020,P. Badosa,P. Kvitova,WTA320124,ESP,,WTA314206,CZE,7,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS208,australian_open,wta
+2020,A. Barty,P. Kvitova,WTA318033,AUS,1,WTA314206,CZE,7,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS501,australian_open,wta
+2020,M. Vondrousova,S. Kuznetsova,WTA323027,CZE,15,WTA110552,RUS,,Court 7,9,3,Women's Singles,C,wta_australian_open_2020WS157,australian_open,wta
+2020,L. Samsonova,J. Ostapenko,WTA322222,RUS,,WTA319939,LAT,,Court 5,7,2,Women's Singles,C,wta_australian_open_2020WS134,australian_open,wta
+2020,I. Swiatek,T. Babos,WTA326408,POL,,WTA317070,HUN,,Court 14,16,2,Women's Singles,C,wta_australian_open_2020WS139,australian_open,wta
+2020,S. Sorribes Tormo,A. Kontaveit,WTA318872,ESP,,WTA318425,EST,28,Court 7,9,3,Women's Singles,C,wta_australian_open_2020WS218,australian_open,wta
+2020,Q. Wang,F. Ferro,WTA314429,CHN,27,WTA319969,FRA,,Court 19,21,2,Women's Singles,C,wta_australian_open_2020WS215,australian_open,wta
+2020,A. Rodionova,K. Bertens,WTA312413,AUS,,WTA314584,NED,9,Court 8,10,2,Women's Singles,C,wta_australian_open_2020WS228,australian_open,wta
+2020,E. Svitolina,L. Davis,WTA316738,UKR,5,WTA317414,USA,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS225,australian_open,wta
+2020,B. Pera,E. Rybakina,WTA317708,USA,,WTA324166,KAZ,29,Court 13,15,2,Women's Singles,C,wta_australian_open_2020WS104,australian_open,wta
+2020,M. Keys,D. Kasatkina,WTA316959,USA,10,WTA322082,RUS,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS109,australian_open,wta
+2020,D. Vekic,I. Swiatek,WTA318516,CRO,19,WTA326408,POL,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS310,australian_open,wta
+2020,V. Williams,C. Gauff,WTA230220,USA,,WTA328560,USA,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS119,australian_open,wta
+2020,K. Kanepi,B. Krejcikova,WTA110536,EST,,WTA318314,CZE,,Court 5,7,3,Women's Singles,C,wta_australian_open_2020WS114,australian_open,wta
+2020,O. Jabeur,Q. Wang,WTA316847,TUN,,WTA314429,CHN,27,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS404,australian_open,wta
+2020,A. Pavlyuchenkova,N. Stojanovic,WTA313796,RUS,30,WTA319709,SRB,,Court 15,17,2,Women's Singles,C,wta_australian_open_2020WS161,australian_open,wta
+2020,P. Hercog,R. Peterson,WTA313968,SLO,,WTA317771,SWE,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS102,australian_open,wta
+2020,A. Pavlyuchenkova,Ka. Pliskova,WTA313796,RUS,30,WTA313974,CZE,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS316,australian_open,wta
+2020,D. Collins,Y. Putintseva,WTA316925,USA,26,WTA317683,KAZ,,Court 15,17,3,Women's Singles,C,wta_australian_open_2020WS223,australian_open,wta
+2020,S. Zhang,S. Kenin,WTA311779,CHN,,WTA320942,USA,14,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS306,australian_open,wta
+2020,M. Sakkari,P. Kvitova,WTA318312,GRE,22,WTA314206,CZE,7,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS402,australian_open,wta
+2020,M. Gasparyan,M. Sakkari,WTA317938,RUS,,WTA318312,GRE,22,Court 7,9,2,Women's Singles,C,wta_australian_open_2020WS112,australian_open,wta
+2020,A. Riske,L. Zhu,WTA312850,USA,18,WTA317306,CHN,,Court 8,10,2,Women's Singles,C,wta_australian_open_2020WS203,australian_open,wta
+2020,E. Mertens,D. Kovinic,WTA317964,BEL,16,WTA317684,MNE,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2020WS141,australian_open,wta
+2020,S. Stosur,C. McNally,WTA190787,AUS,,WTA325725,USA,,Melbourne Arena,3,2,Women's Singles,C,wta_australian_open_2020WS122,australian_open,wta
+2020,O. Jabeur,C. Garcia,WTA316847,TUN,,WTA315391,FRA,,Court 7,9,3,Women's Singles,C,wta_australian_open_2020WS213,australian_open,wta
+2020,A. Potapova,S. Williams,WTA325601,RUS,,WTA230234,USA,8,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS132,australian_open,wta
+2020,G. Muguruza,S. Rogers,WTA316239,ESP,,WTA317421,USA,,Court 3,5,3,Women's Singles,C,wta_australian_open_2020WS151,australian_open,wta
+2020,C. Gauff,S. Cirstea,WTA328560,USA,,WTA312469,ROU,,Melbourne Arena,3,3,Women's Singles,C,wta_australian_open_2020WS210,australian_open,wta
+2020,T. Zidansek,N. Han,WTA323079,SLO,,WTA315159,KOR,,Court 12,14,2,Women's Singles,C,wta_australian_open_2020WS131,australian_open,wta
+2020,A. Tomljanovic,A. Sevastova,WTA315232,AUS,,WTA313987,LAT,31,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS152,australian_open,wta
+2020,G. Muguruza,A. Pavlyuchenkova,WTA316239,ESP,,WTA313796,RUS,30,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS504,australian_open,wta
+2020,Kr. Pliskova,H. Watson,WTA313975,CZE,,WTA316981,GBR,,Court 12,14,3,Women's Singles,C,wta_australian_open_2020WS142,australian_open,wta
+2020,S. Stephens,S. Zhang,WTA315683,USA,24,WTA311779,CHN,,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2020WS121,australian_open,wta
+2020,N. Hibino,S. Peng,WTA320238,JPN,,WTA160471,CHN,,Court 10,12,3,Women's Singles,C,wta_australian_open_2020WS111,australian_open,wta
+2020,A. Barty,A. Riske,WTA318033,AUS,1,WTA312850,USA,18,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS401,australian_open,wta
+2020,Q. Wang,S. Williams,WTA314429,CHN,27,WTA230234,USA,8,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS308,australian_open,wta
+2020,N. Osaka,C. Gauff,WTA319998,JPN,3,WTA328560,USA,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2020WS305,australian_open,wta
+2020,P. Hon,A. Kerber,WTA320543,AUS,,WTA311470,GER,17,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2020WS230,australian_open,wta
+2020,C. Giorgi,A. Kerber,WTA314610,ITA,,WTA311470,GER,17,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2020WS315,australian_open,wta
+2020,T. Townsend,J. Pegula,WTA318609,USA,,WTA316956,USA,,Court 7,9,2,Women's Singles,C,wta_australian_open_2020WS162,australian_open,wta
+2020,A. Barty,L. Tsurenko,WTA318033,AUS,1,WTA315295,UKR,,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2020WS101,australian_open,wta
+2020,I. Swiatek,C. Suárez Navarro,WTA326408,POL,,WTA311338,ESP,,Court 14,16,2,Women's Singles,C,wta_australian_open_2020WS220,australian_open,wta
+2021,N.DJOKOVIC,L.MUSETTI,9801,SRB,1,42340,ITA,,Court Philippe CHATRIER,1,4,Men's Singles,R,atp_roland_garros_2021SM008,roland_garros,atp
+2021,R.NADAL,D.SCHWARTZMAN,7792,ESP,3,24162,ARG,10,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2021SM005,roland_garros,atp
+2021,C.GARIN,D.MEDVEDEV,26967,CHI,22,28836,RUS,2,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2021SM015,roland_garros,atp
+2021,M.BERRETTINI,S.KWON,29046,ITA,9,34679,KOR,,Court Simonne MATHIEU,3,2,Men's Singles,I,atp_roland_garros_2021SM018,roland_garros,atp
+2021,K.NISHIKORI,H.LAAKSONEN,13059,JPN,,19041,SUI,,Court Simonne MATHIEU,3,1,Men's Singles,R,atp_roland_garros_2021SM025,roland_garros,atp
+2021,S.TSITSIPAS,J.ISNER,35398,GRE,5,15820,USA,31,Court Philippe CHATRIER,1,3,Men's Singles,I,atp_roland_garros_2021SM028,roland_garros,atp
+2021,R.NADAL,A.POPYRIN,7792,ESP,3,36373,AUS,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM080,roland_garros,atp
+2021,S.TSITSIPAS,P.MARTINEZ,35398,GRE,5,32244,ESP,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2021SM056,roland_garros,atp
+2021,M.BERRETTINI,F.CORIA,29046,ITA,9,24618,ARG,,Court Simonne MATHIEU,3,2,Men's Singles,I,atp_roland_garros_2021SM036,roland_garros,atp
+2021,A.ZVEREV,R.SAFIULLIN,30350,GER,6,33560,RUS,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM048,roland_garros,atp
+2021,M.CILIC,A.RINDERKNECH,11674,CRO,,29969,FRA,,Court Simonne MATHIEU,3,2,Men's Singles,I,atp_roland_garros_2021SM078,roland_garros,atp
+2021,N.DJOKOVIC,R.BERANKIS,9801,SRB,1,17510,LTU,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM016,roland_garros,atp
+2021,A.ZVEREV,A.DAVIDOVICH FOKINA,30350,GER,6,39036,ESP,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM006,roland_garros,atp
+2021,R.NADAL,J.SINNER,7792,ESP,3,39723,ITA,18,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM010,roland_garros,atp
+2021,T.PAUL,D.MEDVEDEV,33541,USA,,28836,RUS,2,Court Philippe CHATRIER,1,3,Men's Singles,I,atp_roland_garros_2021SM063,roland_garros,atp
+2021,F.FOGNINI,G.BARRERE,9852,ITA,27,26197,FRA,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM108,roland_garros,atp
+2021,C.MOUTET,L.DJERE,36358,FRA,,28518,SRB,,Court Simonne MATHIEU,3,4,Men's Singles,C,atp_roland_garros_2021SM098,roland_garros,atp
+2021,R.NADAL,C.NORRIE,7792,ESP,3,28593,GBR,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2021SM020,roland_garros,atp
+2021,M.YMER,G.MONFILS,33597,SWE,,9525,FRA,14,Court Suzanne LENGLEN,2,3,Men's Singles,I,atp_roland_garros_2021SM043,roland_garros,atp
+2021,C.ALCARAZ,JL.STRUFF,44408,ESP,,23386,GER,,Court Simonne MATHIEU,3,2,Men's Singles,I,atp_roland_garros_2021SM023,roland_garros,atp
+2021,R.NADAL,R.GASQUET,7792,ESP,3,6083,FRA,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM040,roland_garros,atp
+2021,A.ZVEREV,O.OTTE,30350,GER,6,27419,GER,,Court Suzanne LENGLEN,2,4,Men's Singles,I,atp_roland_garros_2021SM096,roland_garros,atp
+2021,K.KHACHANOV,K.NISHIKORI,29528,RUS,23,13059,JPN,,Court Philippe CHATRIER,1,4,Men's Singles,I,atp_roland_garros_2021SM050,roland_garros,atp
+2021,A.ZVEREV,S.TSITSIPAS,30350,GER,6,35398,GRE,5,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2021SM003,roland_garros,atp
+2021,JW.TSONGA,Y.NISHIOKA,6291,FRA,,26310,JPN,,Court Suzanne LENGLEN,2,3,Men's Singles,I,atp_roland_garros_2021SM070,roland_garros,atp
+2021,A.DAVIDOVICH FOKINA,F.DELBONIS,39036,ESP,,20304,ARG,,Court Suzanne LENGLEN,2,4,Men's Singles,C,atp_roland_garros_2021SM013,roland_garros,atp
+2021,N.DJOKOVIC,P.CUEVAS,9801,SRB,1,9767,URU,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM032,roland_garros,atp
+2021,H.LAAKSONEN,R.BAUTISTA AGUT,19041,SUI,,13354,ESP,11,Court Simonne MATHIEU,3,3,Men's Singles,I,atp_roland_garros_2021SM051,roland_garros,atp
+2021,D.SCHWARTZMAN,P.KOHLSCHREIBER,24162,ARG,10,4825,GER,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM022,roland_garros,atp
+2021,A.RAMOS-VINOLAS,G.MONFILS,14065,ESP,,9525,FRA,14,Court Suzanne LENGLEN,2,3,Men's Singles,I,atp_roland_garros_2021SM087,roland_garros,atp
+2021,A.ZVEREV,K.NISHIKORI,30350,GER,6,13059,JPN,,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2021SM012,roland_garros,atp
+2021,A.BUBLIK,D.MEDVEDEV,29098,KAZ,,28836,RUS,2,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM127,roland_garros,atp
+2021,N.DJOKOVIC,R.NADAL,9801,SRB,1,7792,ESP,3,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2021SM002,roland_garros,atp
+2021,N.DJOKOVIC,S.TSITSIPAS,9801,SRB,1,35398,GRE,5,Court Philippe CHATRIER,1,5,Men's Singles,C,atp_roland_garros_2021SM001,roland_garros,atp
+2021,D.SCHWARTZMAN,JL.STRUFF,24162,ARG,10,23386,GER,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM011,roland_garros,atp
+2021,M.BERRETTINI,T.DANIEL,29046,ITA,9,26227,JPN,,Court Simonne MATHIEU,3,3,Men's Singles,I,atp_roland_garros_2021SM072,roland_garros,atp
+2021,J.SINNER,PH.HERBERT,39723,ITA,18,21623,FRA,,Court Suzanne LENGLEN,2,4,Men's Singles,I,atp_roland_garros_2021SM084,roland_garros,atp
+2021,J.SINNER,G.MAGER,39723,ITA,18,27258,ITA,,Court Simonne MATHIEU,3,4,Men's Singles,C,atp_roland_garros_2021SM042,roland_garros,atp
+2021,C.RUUD,B.PAIRE,36389,NOR,15,20017,FRA,,Court Simonne MATHIEU,3,4,Men's Singles,C,atp_roland_garros_2021SM104,roland_garros,atp
+2021,M.FUCSOVICS,G.SIMON,22454,HUN,,7774,FRA,,Court Simonne MATHIEU,3,3,Men's Singles,C,atp_roland_garros_2021SM109,roland_garros,atp
+2021,R.OPELKA,D.MEDVEDEV,32402,USA,32,28836,RUS,2,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2021SM031,roland_garros,atp
+2021,F.FOGNINI,F.DELBONIS,9852,ITA,27,20304,ARG,,Court Suzanne LENGLEN,2,3,Men's Singles,C,atp_roland_garros_2021SM027,roland_garros,atp
+2021,S.TSITSIPAS,J.CHARDY,35398,GRE,5,11493,FRA,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM112,roland_garros,atp
+2021,E.COUACAUD,P.CARRENO BUSTA,28510,FRA,,21578,ESP,12,Court Simonne MATHIEU,3,4,Men's Singles,C,atp_roland_garros_2021SM059,roland_garros,atp
+2021,S.TSITSIPAS,D.MEDVEDEV,35398,GRE,5,28836,RUS,2,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2021SM007,roland_garros,atp
+2021,N.DJOKOVIC,T.SANDGREN,9801,SRB,1,21707,USA,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM064,roland_garros,atp
+2021,D.ISTOMIN,R.FEDERER,7837,UZB,,2508,SUI,8,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2021SM079,roland_garros,atp
+2021,S.TSITSIPAS,P.CARRENO BUSTA,35398,GRE,5,21578,ESP,12,Court Philippe CHATRIER,1,3,Men's Singles,C,atp_roland_garros_2021SM014,roland_garros,atp
+2021,D.KOEPFER,R.FEDERER,32094,GER,,2508,SUI,8,Court Philippe CHATRIER,1,3,Men's Singles,I,atp_roland_garros_2021SM019,roland_garros,atp
+2021,N.DJOKOVIC,M.BERRETTINI,9801,SRB,1,29046,ITA,9,Court Philippe CHATRIER,1,4,Men's Singles,C,atp_roland_garros_2021SM004,roland_garros,atp
+2021,R.BERANKIS,U.HUMBERT,17510,LTU,,36307,FRA,29,Court Simonne MATHIEU,3,3,Men's Singles,I,atp_roland_garros_2021SM067,roland_garros,atp
+2021,M.CILIC,R.FEDERER,11674,CRO,,2508,SUI,8,Court Philippe CHATRIER,1,3,Men's Singles,I,atp_roland_garros_2021SM039,roland_garros,atp
+2021,A.ZVEREV,L.DJERE,30350,GER,6,28518,SRB,,Court Philippe CHATRIER,1,2,Men's Singles,I,atp_roland_garros_2021SM024,roland_garros,atp
+2021,S.JOHNSON,P.CARRENO BUSTA,18972,USA,,21578,ESP,12,Court Simonne MATHIEU,3,2,Men's Singles,I,atp_roland_garros_2021SM029,roland_garros,atp
+2021,H.GASTON,R.GASQUET,38551,FRA,,6083,FRA,,Court Suzanne LENGLEN,2,2,Men's Singles,I,atp_roland_garros_2021SM081,roland_garros,atp
+2021,P.ANDUJAR,D.THIEM,9592,ESP,,26348,AUT,4,Court Philippe CHATRIER,1,4,Men's Singles,I,atp_roland_garros_2021SM111,roland_garros,atp
+2021,Y. Uchiyama,U. Humbert,ATPU134,JPN,,ATPHH26,FRA,29,Court 17,19,4,Men's Singles,C,atp_australian_open_2021MS120,australian_open,atp
+2021,M. McDonald,M. Cecchinato,ATPMK66,USA,,ATPCF01,ITA,,Court 6,8,4,Men's Singles,C,atp_australian_open_2021MS143,australian_open,atp
+2021,N. Djokovic,F. Tiafoe,ATPD643,SRB,1,ATPTD51,USA,,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2021MS201,australian_open,atp
+2021,K. Khachanov,A. Vukic,ATPKE29,RUS,19,ATPV832,AUS,,Court 8,10,4,Men's Singles,C,atp_australian_open_2021MS153,australian_open,atp
+2021,G. Mager,A. Karatsev,ATPML57,ITA,,ATPKC56,RUS,,Court 10,12,3,Men's Singles,C,atp_australian_open_2021MS130,australian_open,atp
+2021,G. Dimitrov,A. Bolt,ATPD875,BUL,18,ATPBI81,AUS,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS211,australian_open,atp
+2021,N. Djokovic,D. Medvedev,ATPD643,SRB,1,ATPMM58,RUS,4,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS701,australian_open,atp
+2021,A. Popyrin,L. Harris,ATPP09Z,AUS,,ATPHG86,RSA,,Court 3,5,5,Men's Singles,C,atp_australian_open_2021MS221,australian_open,atp
+2021,M. Mmoh,V. Troicki,ATPMP01,USA,,ATPT840,SRB,,Court 13,15,5,Men's Singles,C,atp_australian_open_2021MS163,australian_open,atp
+2021,K. Khachanov,M. Berrettini,ATPKE29,RUS,19,ATPBK40,ITA,9,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS314,australian_open,atp
+2021,C. Norrie,R. Safiullin,ATPN771,GBR,,ATPSX50,RUS,,Margaret Court Arena,2,4,Men's Singles,C,atp_australian_open_2021MS231,australian_open,atp
+2021,A. Mannarino,A. Zverev,ATPME82,FRA,32,ATPZ355,GER,6,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS304,australian_open,atp
+2021,A. Rublev,F. Lopez,ATPRE44,RUS,7,ATPL397,ESP,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS309,australian_open,atp
+2021,Y. Nishioka,P. Martinez,ATPN732,JPN,,ATPMO44,ESP,,Court 17,19,4,Men's Singles,C,atp_australian_open_2021MS110,australian_open,atp
+2021,M. Mmoh,R. Nadal,ATPMP01,USA,,ATPN409,ESP,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS232,australian_open,atp
+2021,A. Mannarino,D. Novak,ATPME82,FRA,32,ATPDB59,AUT,,Court 16,18,3,Men's Singles,C,atp_australian_open_2021MS113,australian_open,atp
+2021,D. Thiem,G. Dimitrov,ATPTB69,AUT,3,ATPD875,BUL,18,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS403,australian_open,atp
+2021,D. Shapovalov,F. Auger-Aliassime,ATPSU55,CAN,11,ATPAG37,CAN,20,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS307,australian_open,atp
+2021,M. McDonald,B. Coric,ATPMK66,USA,,ATPCG80,CRO,22,Court 8,10,4,Men's Singles,C,atp_australian_open_2021MS222,australian_open,atp
+2021,R. Opelka,Y. Lu,ATPO522,USA,,ATPL575,TPE,,Court 12,14,3,Men's Singles,C,atp_australian_open_2021MS103,australian_open,atp
+2021,T. Sandgren,A. de Minaur,ATPSL08,USA,,ATPDH58,AUS,21,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS160,australian_open,atp
+2021,T. Kokkinakis,S. Kwon,ATPKD46,AUS,,ATPKF17,KOR,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS150,australian_open,atp
+2021,A. Rublev,Y. Hanfmann,ATPRE44,RUS,7,ATPH997,GER,,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS133,australian_open,atp
+2021,J. Vesely,P. Carreno Busta,ATPV708,CZE,,ATPCD85,ESP,15,Court 7,9,4,Men's Singles,C,atp_australian_open_2021MS212,australian_open,atp
+2021,K. Coppejans,J. Vesely,ATPCG33,BEL,,ATPV708,CZE,,Court 10,12,5,Men's Singles,C,atp_australian_open_2021MS123,australian_open,atp
+2021,R. Albot,R. Bautista Agut,ATPA829,MDA,,ATPBD06,ESP,12,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2021MS140,australian_open,atp
+2021,R. Opelka,T. Fritz,ATPO522,USA,,ATPFB98,USA,27,1573 Arena,4,5,Men's Singles,C,atp_australian_open_2021MS202,australian_open,atp
+2021,J. Duckworth,F. Auger-Aliassime,ATPD994,AUS,,ATPAG37,CAN,20,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS214,australian_open,atp
+2021,C. Ruud,T. Paul,ATPRH16,NOR,24,ATPPL56,USA,,Court 13,15,4,Men's Singles,C,atp_australian_open_2021MS219,australian_open,atp
+2021,N. Basilashvili,T. Paul,ATPBG23,GEO,,ATPPL56,USA,,Court 10,12,3,Men's Singles,C,atp_australian_open_2021MS138,australian_open,atp
+2021,L. Tu,F. Lopez,ATPTC01,AUS,,ATPL397,ESP,,Court 7,9,4,Men's Singles,C,atp_australian_open_2021MS135,australian_open,atp
+2021,K. Anderson,M. Berrettini,ATPA678,RSA,,ATPBK40,ITA,9,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS156,australian_open,atp
+2021,D. Thiem,D. Koepfer,ATPTB69,AUT,3,ATPKE73,GER,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS209,australian_open,atp
+2021,C. Moutet,M. Raonic,ATPMW02,FRA,,ATPR975,CAN,14,Court 7,9,4,Men's Singles,C,atp_australian_open_2021MS204,australian_open,atp
+2021,P. Andujar,Q. Halys,ATPA596,ESP,,ATPHB64,FRA,,Court 15,17,3,Men's Singles,C,atp_australian_open_2021MS146,australian_open,atp
+2021,D. Shapovalov,J. Sinner,ATPSU55,CAN,11,ATPS0AG,ITA,,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2021MS125,australian_open,atp
+2021,C. Stebe,F. Auger-Aliassime,ATPSK94,GER,,ATPAG37,CAN,20,Court 13,15,3,Men's Singles,C,atp_australian_open_2021MS128,australian_open,atp
+2021,A. Rublev,C. Ruud,ATPRE44,RUS,7,ATPRH16,NOR,24,Margaret Court Arena,2,2,Men's Singles,R,atp_australian_open_2021MS405,australian_open,atp
+2021,T. Daniel,M. Cressy,ATPDA81,JPN,,ATPC0BC,USA,,Court 15,17,3,Men's Singles,C,atp_australian_open_2021MS115,australian_open,atp
+2021,D. Koepfer,H. Dellien,ATPKE73,GER,,ATPDA31,BOL,,Court 14,16,3,Men's Singles,C,atp_australian_open_2021MS118,australian_open,atp
+2021,F. Fognini,R. Nadal,ATPF510,ITA,16,ATPN409,ESP,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS408,australian_open,atp
+2021,N. Djokovic,T. Fritz,ATPD643,SRB,1,ATPFB98,USA,27,Rod Laver Arena,1,5,Men's Singles,C,atp_australian_open_2021MS301,australian_open,atp
+2021,L. Harris,M. McDonald,ATPHG86,RSA,,ATPMK66,USA,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS311,australian_open,atp
+2021,N. Djokovic,A. Karatsev,ATPD643,SRB,1,ATPKC56,RUS,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS601,australian_open,atp
+2021,F. Coria,M. Raonic,ATPCE77,ARG,,ATPR975,CAN,14,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2021MS108,australian_open,atp
+2021,S. Wawrinka,P. Sousa,ATPW367,SUI,17,ATPS483,POR,,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS105,australian_open,atp
+2021,R. Carballes Baena,D. Medvedev,ATPCF59,ESP,,ATPMM58,RUS,4,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS224,australian_open,atp
+2021,F. Fognini,S. Caruso,ATPF510,ITA,16,ATPCE25,ITA,,John Cain Arena,3,5,Men's Singles,C,atp_australian_open_2021MS229,australian_open,atp
+2021,M. Fucsovics,M. Polmans,ATPF724,HUN,,ATPPG94,AUS,,Court 14,16,5,Men's Singles,C,atp_australian_open_2021MS106,australian_open,atp
+2021,D. Medvedev,S. Tsitsipas,ATPMM58,RUS,4,ATPTE51,GRE,5,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS602,australian_open,atp
+2021,F. Krajinovic,D. Medvedev,ATPKB05,SRB,28,ATPMM58,RUS,4,Rod Laver Arena,1,5,Men's Singles,C,atp_australian_open_2021MS312,australian_open,atp
+2021,K. Khachanov,R. Berankis,ATPKE29,RUS,19,ATPBE90,LTU,,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2021MS227,australian_open,atp
+2021,M. Fucsovics,M. Raonic,ATPF724,HUN,,ATPR975,CAN,14,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2021MS302,australian_open,atp
+2021,M. Giron,A. Zverev,ATPGC88,USA,,ATPZ355,GER,6,Margaret Court Arena,2,4,Men's Singles,C,atp_australian_open_2021MS116,australian_open,atp
+2021,M. McDonald,D. Medvedev,ATPMK66,USA,,ATPMM58,RUS,4,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS406,australian_open,atp
+2021,A. Mannarino,M. Kecmanovic,ATPME82,FRA,32,ATPKI95,SRB,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS207,australian_open,atp
+2021,A. Rublev,D. Medvedev,ATPRE44,RUS,7,ATPMM58,RUS,4,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS503,australian_open,atp
+2021,V. Pospisil,D. Medvedev,ATPPD07,CAN,,ATPMM58,RUS,4,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS148,australian_open,atp
+2021,F. Krajinovic,R. Haase,ATPKB05,SRB,28,ATPH756,NED,,Court 12,14,4,Men's Singles,C,atp_australian_open_2021MS145,australian_open,atp
+2021,Y. Sugita,B. Tomic,ATPSE73,JPN,,ATPTA46,AUS,,Court 8,10,2,Men's Singles,R,atp_australian_open_2021MS126,australian_open,atp
+2021,A. Rublev,T. Monteiro,ATPRE44,RUS,7,ATPMJ08,BRA,,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS217,australian_open,atp
+2021,S. Querrey,L. Sonego,ATPQ927,USA,,ATPSU87,ITA,31,Court 14,16,3,Men's Singles,C,atp_australian_open_2021MS136,australian_open,atp
+2021,T. Machac,M. Vilella Martinez,ATPM0FH,CZE,,ATPV824,ESP,,Court 14,16,3,Men's Singles,R,atp_australian_open_2021MS155,australian_open,atp
+2021,H. Laaksonen,S. Caruso,ATPL949,SUI,,ATPCE25,ITA,,Court 16,18,3,Men's Singles,C,atp_australian_open_2021MS158,australian_open,atp
+2021,P. Martinez,D. Lajovic,ATPMO44,ESP,,ATPL987,SRB,23,Court 3,5,4,Men's Singles,C,atp_australian_open_2021MS303,australian_open,atp
+2021,D. Thiem,M. Kukushkin,ATPTB69,AUT,3,ATPK926,KAZ,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS117,australian_open,atp
+2021,C. Moutet,J. Millman,ATPMW02,FRA,,ATPMH30,AUS,,Court 3,5,5,Men's Singles,C,atp_australian_open_2021MS107,australian_open,atp
+2021,L. Djere,R. Nadal,ATPDB63,SRB,,ATPN409,ESP,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS164,australian_open,atp
+2021,S. Tsitsipas,M. Ymer,ATPTE51,GRE,5,ATPY268,SWE,,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS313,australian_open,atp
+2021,C. Alcaraz,M. Ymer,ATPA0E2,ESP,,ATPY268,SWE,,Court 17,19,4,Men's Singles,C,atp_australian_open_2021MS226,australian_open,atp
+2021,A. Muller,D. Schwartzman,ATPMP20,FRA,,ATPSM37,ARG,8,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2021MS216,australian_open,atp
+2021,R. Berankis,S. Nagal,ATPBE90,LTU,,ATPN897,IND,,Court 17,19,3,Men's Singles,C,atp_australian_open_2021MS154,australian_open,atp
+2021,C. Ruud,J. Thompson,ATPRH16,NOR,24,ATPTC61,AUS,,1573 Arena,4,2,Men's Singles,R,atp_australian_open_2021MS137,australian_open,atp
+2021,P. Cuevas,A. Seppi,ATPC882,URU,,ATPSA93,ITA,,Court 6,8,4,Men's Singles,C,atp_australian_open_2021MS159,australian_open,atp
+2021,A. Bublik,D. Lajovic,ATPBK92,KAZ,,ATPL987,SRB,23,Court 8,10,4,Men's Singles,C,atp_australian_open_2021MS206,australian_open,atp
+2021,G. Dimitrov,A. Karatsev,ATPD875,BUL,18,ATPKC56,RUS,,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2021MS502,australian_open,atp
+2021,S. Tsitsipas,G. Simon,ATPTE51,GRE,5,ATPSD32,FRA,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS149,australian_open,atp
+2021,D. Dzumhur,J. Duckworth,ATPD923,BIH,,ATPD994,AUS,,Court 7,9,3,Men's Singles,C,atp_australian_open_2021MS127,australian_open,atp
+2021,G. Pella,B. Coric,ATPPC11,ARG,,ATPCG80,CRO,22,Court 13,15,3,Men's Singles,C,atp_australian_open_2021MS144,australian_open,atp
+2021,M. Cressy,A. Zverev,ATPC0BC,USA,,ATPZ355,GER,6,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS208,australian_open,atp
+2021,N. Djokovic,A. Zverev,ATPD643,SRB,1,ATPZ355,GER,6,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2021MS501,australian_open,atp
+2021,E. Ruusuvuori,P. Martinez,ATPRH24,FIN,,ATPMO44,ESP,,Court 13,15,4,Men's Singles,C,atp_australian_open_2021MS205,australian_open,atp
+2021,K. Nishikori,P. Carreno Busta,ATPN552,JPN,,ATPCD85,ESP,15,1573 Arena,4,3,Men's Singles,C,atp_australian_open_2021MS124,australian_open,atp
+2021,R. Carballes Baena,A. Balazs,ATPCF59,ESP,,ATPBD80,HUN,,Court 15,17,4,Men's Singles,C,atp_australian_open_2021MS147,australian_open,atp
+2021,B. Paire,E. Gerasimov,ATPPD31,FRA,25,ATPGC89,BLR,,Court 8,10,4,Men's Singles,C,atp_australian_open_2021MS129,australian_open,atp
+2021,E. Gerasimov,A. Karatsev,ATPGC89,BLR,,ATPKC56,RUS,,Court 17,19,3,Men's Singles,C,atp_australian_open_2021MS215,australian_open,atp
+2021,F. Lopez,L. Sonego,ATPL397,ESP,,ATPSU87,ITA,31,Court 7,9,5,Men's Singles,C,atp_australian_open_2021MS218,australian_open,atp
+2021,C. O'Connell,J. Struff,ATPO483,AUS,,ATPSL28,GER,,Court 7,9,3,Men's Singles,C,atp_australian_open_2021MS139,australian_open,atp
+2021,F. Fognini,P. Herbert,ATPF510,ITA,16,ATPH996,FRA,,Court 5,7,3,Men's Singles,C,atp_australian_open_2021MS157,australian_open,atp
+2021,T. Monteiro,A. Martin,ATPMJ08,BRA,,ATPMF35,SVK,,Court 10,12,3,Men's Singles,C,atp_australian_open_2021MS134,australian_open,atp
+2021,G. Monfils,E. Ruusuvuori,ATPMC65,FRA,10,ATPRH24,FIN,,Court 13,15,5,Men's Singles,C,atp_australian_open_2021MS109,australian_open,atp
+2021,C. Ruud,R. Albot,ATPRH16,NOR,24,ATPA829,MDA,,1573 Arena,4,4,Men's Singles,C,atp_australian_open_2021MS310,australian_open,atp
+2021,A. Ramos-Vinolas,T. Fritz,ATPR772,ESP,,ATPFB98,USA,27,Court 15,17,4,Men's Singles,C,atp_australian_open_2021MS104,australian_open,atp
+2021,S. Tsitsipas,T. Kokkinakis,ATPTE51,GRE,5,ATPKD46,AUS,,Rod Laver Arena,1,5,Men's Singles,C,atp_australian_open_2021MS225,australian_open,atp
+2021,T. Machac,M. Berrettini,ATPM0FH,CZE,,ATPBK40,ITA,9,Margaret Court Arena,2,4,Men's Singles,C,atp_australian_open_2021MS228,australian_open,atp
+2021,M. Kecmanovic,K. Majchrzak,ATPKI95,SRB,,ATPMQ75,POL,,Court 6,8,3,Men's Singles,C,atp_australian_open_2021MS114,australian_open,atp
+2021,F. Auger-Aliassime,A. Karatsev,ATPAG37,CAN,20,ATPKC56,RUS,,Margaret Court Arena,2,5,Men's Singles,C,atp_australian_open_2021MS404,australian_open,atp
+2021,F. Ferreira Silva,N. Kyrgios,ATPSN54,POR,,ATPKE17,AUS,,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS119,australian_open,atp
+2021,F. Krajinovic,P. Andujar,ATPKB05,SRB,28,ATPA596,ESP,,Court 7,9,4,Men's Singles,C,atp_australian_open_2021MS223,australian_open,atp
+2021,C. Norrie,R. Nadal,ATPN771,GBR,,ATPN409,ESP,2,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS316,australian_open,atp
+2021,D. Evans,C. Norrie,ATPE687,GBR,30,ATPN771,GBR,,Court 8,10,4,Men's Singles,C,atp_australian_open_2021MS161,australian_open,atp
+2021,F. Tiafoe,S. Travaglia,ATPTD51,USA,,ATPTA12,ITA,,Court 5,7,3,Men's Singles,C,atp_australian_open_2021MS102,australian_open,atp
+2021,D. Lajovic,A. Zverev,ATPL987,SRB,23,ATPZ355,GER,6,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS402,australian_open,atp
+2021,S. Stakhovsky,D. Lajovic,ATPSC77,UKR,,ATPL987,SRB,23,Court 16,18,5,Men's Singles,C,atp_australian_open_2021MS112,australian_open,atp
+2021,G. Dimitrov,P. Carreno Busta,ATPD875,BUL,18,ATPCD85,ESP,15,Margaret Court Arena,2,1,Men's Singles,R,atp_australian_open_2021MS306,australian_open,atp
+2021,D. Goffin,A. Popyrin,ATPGB88,BEL,13,ATPP09Z,AUS,,Court 3,5,5,Men's Singles,C,atp_australian_open_2021MS141,australian_open,atp
+2021,A. Bolt,N. Gombos,ATPBI81,AUS,,ATPGB93,SVK,,Court 5,7,4,Men's Singles,C,atp_australian_open_2021MS122,australian_open,atp
+2021,S. Wawrinka,M. Fucsovics,ATPW367,SUI,17,ATPF724,HUN,,John Cain Arena,3,5,Men's Singles,C,atp_australian_open_2021MS203,australian_open,atp
+2021,E. Ymer,D. Schwartzman,ATPY218,SWE,,ATPSM37,ARG,8,Court 7,9,4,Men's Singles,C,atp_australian_open_2021MS132,australian_open,atp
+2021,B. Van de Zandschulp,C. Alcaraz,ATPV812,NED,,ATPA0E2,ESP,,Court 17,19,3,Men's Singles,C,atp_australian_open_2021MS151,australian_open,atp
+2021,D. Shapovalov,B. Tomic,ATPSU55,CAN,11,ATPTA46,AUS,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS213,australian_open,atp
+2021,A. Muller,J. Londero,ATPMP20,FRA,,ATPLB84,ARG,,Court 6,8,4,Men's Singles,C,atp_australian_open_2021MS131,australian_open,atp
+2021,M. Ymer,H. Hurkacz,ATPY268,SWE,,ATPHB71,POL,26,Court 5,7,5,Men's Singles,C,atp_australian_open_2021MS152,australian_open,atp
+2021,N. Kyrgios,U. Humbert,ATPKE17,AUS,,ATPHH26,FRA,29,John Cain Arena,3,5,Men's Singles,C,atp_australian_open_2021MS210,australian_open,atp
+2021,L. Harris,M. Torpegaard,ATPHG86,RSA,,ATPTC12,DEN,,Court 16,18,4,Men's Singles,C,atp_australian_open_2021MS142,australian_open,atp
+2021,G. Dimitrov,M. Cilic,ATPD875,BUL,18,ATPC977,CRO,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS121,australian_open,atp
+2021,S. Tsitsipas,R. Nadal,ATPTE51,GRE,5,ATPN409,ESP,2,Rod Laver Arena,1,5,Men's Singles,C,atp_australian_open_2021MS504,australian_open,atp
+2021,P. Cuevas,A. de Minaur,ATPC882,URU,,ATPDH58,AUS,,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS230,australian_open,atp
+2021,D. Thiem,N. Kyrgios,ATPTB69,AUT,3,ATPKE17,AUS,,John Cain Arena,3,5,Men's Singles,C,atp_australian_open_2021MS305,australian_open,atp
+2021,A. Bedene,A. Bublik,ATPBH09,SLO,,ATPBK92,KAZ,,Court 12,14,3,Men's Singles,I,atp_australian_open_2021MS111,australian_open,atp
+2021,N. Djokovic,M. Raonic,ATPD643,SRB,1,ATPR975,CAN,14,Rod Laver Arena,1,4,Men's Singles,C,atp_australian_open_2021MS401,australian_open,atp
+2021,A. Karatsev,D. Schwartzman,ATPKC56,RUS,,ATPSM37,ARG,8,John Cain Arena,3,3,Men's Singles,C,atp_australian_open_2021MS308,australian_open,atp
+2021,C. O'Connell,R. Albot,ATPO483,AUS,,ATPA829,MDA,,Court 3,5,3,Men's Singles,C,atp_australian_open_2021MS220,australian_open,atp
+2021,I. Ivashka,R. Safiullin,ATPI305,BLR,,ATPSX50,RUS,,Court 12,14,3,Men's Singles,C,atp_australian_open_2021MS162,australian_open,atp
+2021,N. Djokovic,J. Chardy,ATPD643,SRB,1,ATPCA12,FRA,,Rod Laver Arena,1,3,Men's Singles,C,atp_australian_open_2021MS101,australian_open,atp
+2021,F. Fognini,A. de Minaur,ATPF510,ITA,16,ATPDH58,AUS,21,Margaret Court Arena,2,3,Men's Singles,C,atp_australian_open_2021MS315,australian_open,atp
+2021,P.HERCOG,C.GARCIA,18049,SLO,,23726,FRA,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD060,roland_garros,wta
+2021,A.PAVLYUCHENKOVA,T.ZIDANSEK,15108,RUS,31,33787,SLO,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2021SD003,roland_garros,wta
+2021,V.AZARENKA,A.PAVLYUCHENKOVA,12595,BLR,15,15108,RUS,31,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2021SD013,roland_garros,wta
+2021,ES.LIANG,F.FERRO,42514,TPE,,30524,FRA,,Court Suzanne LENGLEN,2,2,Women's Singles,I,wta_roland_garros_2021SD070,roland_garros,wta
+2021,A.KONTAVEIT,I.SWIATEK,26434,EST,30,40613,POL,8,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD023,roland_garros,wta
+2021,S.WILLIAMS,I.BEGU,3370,USA,7,16659,ROU,,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD096,roland_garros,wta
+2021,K.JUVAN,I.SWIATEK,40087,SLO,,40613,POL,8,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD095,roland_garros,wta
+2021,P.HERCOG,M.VONDROUSOVA,18049,SLO,,36620,CZE,20,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD030,roland_garros,wta
+2021,G.MUGURUZA,M.KOSTYUK,23872,ESP,12,40683,UKR,,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD088,roland_garros,wta
+2021,S.KENIN,J.PEGULA,35854,USA,4,21863,USA,28,Court Suzanne LENGLEN,2,2,Women's Singles,I,wta_roland_garros_2021SD020,roland_garros,wta
+2021,C.BUREL,D.KOVINIC,41884,FRA,,25890,MNE,,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD125,roland_garros,wta
+2021,S.KENIN,M.SAKKARI,35854,USA,4,28771,GRE,17,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD010,roland_garros,wta
+2021,C.SUAREZ NAVARRO,S.STEPHENS,11073,ESP,,21500,USA,,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD073,roland_garros,wta
+2021,E.RYBAKINA,A.PAVLYUCHENKOVA,38569,KAZ,21,15108,RUS,31,Court Philippe CHATRIER,1,2,Women's Singles,I,wta_roland_garros_2021SD006,roland_garros,wta
+2021,G.MINNEN,P.KVITOVA,31313,BEL,,18124,CZE,11,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2021SD103,roland_garros,wta
+2021,AK.SCHMIEDLOVA,K.MLADENOVIC,26485,SVK,,19921,FRA,,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD093,roland_garros,wta
+2021,A.SASNOVICH,A.SABALENKA,26058,BLR,,33249,BLR,3,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD055,roland_garros,wta
+2021,Ka.PLISKOVA,S.STEPHENS,18274,CZE,9,21500,USA,,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD036,roland_garros,wta
+2021,V.AZARENKA,M.KEYS,12595,BLR,15,24265,USA,23,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD026,roland_garros,wta
+2021,S.WILLIAMS,M.BUZARNESCU,3370,USA,7,13153,ROU,,Court Philippe CHATRIER,1,2,Women's Singles,I,wta_roland_garros_2021SD048,roland_garros,wta
+2021,S.KENIN,J.OSTAPENKO,35854,USA,4,28758,LAT,,Court Suzanne LENGLEN,2,2,Women's Singles,I,wta_roland_garros_2021SD080,roland_garros,wta
+2021,E.RYBAKINA,E.VESNINA,38569,KAZ,21,9117,RUS,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD025,roland_garros,wta
+2021,A.KONTAVEIT,K.MLADENOVIC,26434,EST,30,19921,FRA,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD046,roland_garros,wta
+2021,F.FERRO,J.BRADY,30524,FRA,,27929,USA,13,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD035,roland_garros,wta
+2021,M.SAKKARI,I.SWIATEK,28771,GRE,17,40613,POL,8,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2021SD005,roland_garros,wta
+2021,O.JABEUR,C.GAUFF,23770,TUN,25,44185,USA,24,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD008,roland_garros,wta
+2021,S.STEPHENS,K.MUCHOVA,21500,USA,,35961,CZE,18,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD018,roland_garros,wta
+2021,M.VONDROUSOVA,P.BADOSA,36620,CZE,20,32919,ESP,33,Court Suzanne LENGLEN,2,3,Women's Singles,C,wta_roland_garros_2021SD015,roland_garros,wta
+2021,A.LI,E.SVITOLINA,40660,USA,,23968,UKR,5,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD039,roland_garros,wta
+2021,A.KONJUH,A.SABALENKA,31288,CRO,,33249,BLR,3,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2021SD111,roland_garros,wta
+2021,R.PETERSON,I.SWIATEK,28280,SWE,,40613,POL,8,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD047,roland_garros,wta
+2021,S.WILLIAMS,D.COLLINS,3370,USA,7,30464,USA,,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD024,roland_garros,wta
+2021,B.KREJCIKOVA,E.SVITOLINA,26436,CZE,,23968,UKR,5,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD019,roland_garros,wta
+2021,T.ZIDANSEK,S.CIRSTEA,33787,SLO,,14440,ROU,,Court Suzanne LENGLEN,2,2,Women's Singles,C,wta_roland_garros_2021SD014,roland_garros,wta
+2021,L.SIEGEMUND,C.GARCIA,9086,GER,,23726,FRA,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD121,roland_garros,wta
+2021,C.GAUFF,B.KREJCIKOVA,44185,USA,24,26436,CZE,,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2021SD004,roland_garros,wta
+2021,S.STEPHENS,B.KREJCIKOVA,21500,USA,,26436,CZE,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD009,roland_garros,wta
+2021,A.BARTY,B.PERA,27902,AUS,1,28763,USA,,Court Philippe CHATRIER,1,2,Women's Singles,I,wta_roland_garros_2021SD064,roland_garros,wta
+2021,T.ZIDANSEK,P.BADOSA,33787,SLO,,32919,ESP,33,Court Philippe CHATRIER,1,2,Women's Singles,I,wta_roland_garros_2021SD007,roland_garros,wta
+2021,C.GAUFF,J.BRADY,44185,USA,24,27929,USA,13,Court Suzanne LENGLEN,2,1,Women's Singles,R,wta_roland_garros_2021SD017,roland_garros,wta
+2021,O.BABEL,E.SVITOLINA,44509,FRA,,23968,UKR,5,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD079,roland_garros,wta
+2021,A.CORNET,H.TAN,13263,FRA,,31398,FRA,,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD122,roland_garros,wta
+2021,A.PAVLYUCHENKOVA,A.SABALENKA,15108,RUS,31,33249,BLR,3,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD027,roland_garros,wta
+2021,D.KASATKINA,B.BENCIC,31281,RUS,,28865,SUI,10,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD059,roland_garros,wta
+2021,M.SAKKARI,E.MERTENS,28771,GRE,17,26448,BEL,14,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD021,roland_garros,wta
+2021,V.AZARENKA,C.TAUSON,12595,BLR,15,42533,DEN,,Court Simonne MATHIEU,3,1,Women's Singles,I,wta_roland_garros_2021SD052,roland_garros,wta
+2021,P.BADOSA,A.BOGDAN,32919,ESP,33,19858,ROU,,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD031,roland_garros,wta
+2021,V.AZARENKA,S.KUZNETSOVA,12595,BLR,15,5745,RUS,,Court Philippe CHATRIER,1,2,Women's Singles,I,wta_roland_garros_2021SD104,roland_garros,wta
+2021,B.KREJCIKOVA,A.PAVLYUCHENKOVA,26436,CZE,,15108,RUS,31,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2021SD001,roland_garros,wta
+2021,Ka.PLISKOVA,D.VEKIC,18274,CZE,9,26513,CRO,,Court Suzanne LENGLEN,2,1,Women's Singles,I,wta_roland_garros_2021SD072,roland_garros,wta
+2021,M.KOSTYUK,I.SWIATEK,40683,UKR,,40613,POL,8,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD011,roland_garros,wta
+2021,PM.TIG,N.OSAKA,26506,ROU,,30764,JPN,2,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2021SD127,roland_garros,wta
+2021,S.WILLIAMS,E.RYBAKINA,3370,USA,7,38569,KAZ,21,Court Philippe CHATRIER,1,2,Women's Singles,C,wta_roland_garros_2021SD012,roland_garros,wta
+2021,B.KREJCIKOVA,M.SAKKARI,26436,CZE,,28771,GRE,17,Court Philippe CHATRIER,1,3,Women's Singles,C,wta_roland_garros_2021SD002,roland_garros,wta
+2021,H.TAN,M.VONDROUSOVA,31398,FRA,,36620,CZE,20,Court Philippe CHATRIER,1,1,Women's Singles,I,wta_roland_garros_2021SD061,roland_garros,wta
+2021,A.BARTY,M.LINETTE,27902,AUS,1,21355,POL,,Court Philippe CHATRIER,1,1,Women's Singles,R,wta_roland_garros_2021SD032,roland_garros,wta
+2021,O.DODIN,M.KEYS,28687,FRA,,24265,USA,23,Court Simonne MATHIEU,3,2,Women's Singles,I,wta_roland_garros_2021SD107,roland_garros,wta
+2021,A. Kontaveit,S. Rogers,WTA318425,EST,21,WTA317421,USA,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS302,australian_open,wta
+2021,J. Paolini,Ka. Pliskova,WTA319280,ITA,,WTA313974,CZE,6,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS116,australian_open,wta
+2021,G. Muguruza,N. Osaka,WTA316239,ESP,14,WTA319998,JPN,3,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS406,australian_open,wta
+2021,Kr. Pliskova,H. Watson,WTA313975,CZE,,WTA316981,GBR,,Court 10,12,2,Women's Singles,C,wta_australian_open_2021WS106,australian_open,wta
+2021,N. Osaka,S. Williams,WTA319998,JPN,3,WTA230234,USA,10,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS602,australian_open,wta
+2021,O. Jabeur,N. Osaka,WTA316847,TUN,27,WTA319998,JPN,3,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS312,australian_open,wta
+2021,A. Potapova,T. Babos,WTA325601,RUS,,WTA317070,HUN,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS227,australian_open,wta
+2021,B. Andreescu,S. Hsieh,WTA325088,CAN,8,WTA310053,TPE,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS217,australian_open,wta
+2021,S. Errani,Q. Wang,WTA310761,ITA,,WTA314429,CHN,30,Court 8,10,3,Women's Singles,C,wta_australian_open_2021WS136,australian_open,wta
+2021,N. Stojanovic,I. Begu,WTA319709,SRB,,WTA313169,ROU,,Court 14,16,2,Women's Singles,C,wta_australian_open_2021WS155,australian_open,wta
+2021,Y. Shvedova,C. Giorgi,WTA311137,KAZ,,WTA314610,ITA,,Court 8,10,2,Women's Singles,C,wta_australian_open_2021WS158,australian_open,wta
+2021,K. Muchova,M. Barthel,WTA322191,CZE,25,WTA315365,GER,,Court 13,15,2,Women's Singles,C,wta_australian_open_2021WS207,australian_open,wta
+2021,S. Hsieh,N. Osaka,WTA310053,TPE,,WTA319998,JPN,3,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS503,australian_open,wta
+2021,A. Pavlyuchenkova,N. Osaka,WTA313796,RUS,,WTA319998,JPN,3,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS148,australian_open,wta
+2021,O. Jabeur,A. Petkovic,WTA316847,TUN,27,WTA310770,GER,,1573 Arena,4,3,Women's Singles,C,wta_australian_open_2021WS145,australian_open,wta
+2021,D. Aiava,S. Stosur,WTA324219,AUS,,WTA190787,AUS,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS126,australian_open,wta
+2021,S. Kenin,K. Kanepi,WTA320942,USA,4,WTA110536,EST,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS209,australian_open,wta
+2021,S. Rogers,O. Danilovic,WTA317421,USA,,WTA324934,SRB,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS204,australian_open,wta
+2021,M. Hibi,A. Schmiedlova,WTA319473,JPN,,WTA318203,SVK,,Court 7,9,2,Women's Singles,C,wta_australian_open_2021WS146,australian_open,wta
+2021,V. Azarenka,J. Pegula,WTA312001,BLR,12,WTA316956,USA,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS125,australian_open,wta
+2021,K. Mladenovic,M. Sakkari,WTA315616,FRA,,WTA318312,GRE,20,Court 13,15,3,Women's Singles,C,wta_australian_open_2021WS128,australian_open,wta
+2021,N. Hibino,K. Mladenovic,WTA320238,JPN,,WTA315616,FRA,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS214,australian_open,wta
+2021,M. Vondrousova,R. Marino,WTA323027,CZE,19,WTA313485,CAN,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS219,australian_open,wta
+2021,R. Marino,K. Birrell,WTA313485,CAN,,WTA320728,AUS,,Court 7,9,2,Women's Singles,C,wta_australian_open_2021WS138,australian_open,wta
+2021,K. Flipkens,V. Williams,WTA310331,BEL,,WTA230220,USA,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS135,australian_open,wta
+2021,L. Siegemund,S. Williams,WTA310926,GER,,WTA230234,USA,10,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS156,australian_open,wta
+2021,G. Muguruza,Z. Diyas,WTA316239,ESP,14,WTA315696,KAZ,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS311,australian_open,wta
+2021,K. Muchova,J. Brady,WTA322191,CZE,25,WTA318358,USA,22,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS601,australian_open,wta
+2021,O. Danilovic,P. Martic,WTA324934,SRB,,WTA313711,CRO,16,Court 17,19,3,Women's Singles,C,wta_australian_open_2021WS108,australian_open,wta
+2021,A. Kontaveit,A. Sasnovich,WTA318425,EST,21,WTA317790,BLR,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS105,australian_open,wta
+2021,C. Garcia,N. Osaka,WTA315391,FRA,,WTA319998,JPN,3,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS224,australian_open,wta
+2021,I. Swiatek,C. Giorgi,WTA326408,POL,15,WTA314610,ITA,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS229,australian_open,wta
+2021,S. Hsieh,M. Vondrousova,WTA310053,TPE,,WTA323027,CZE,19,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS405,australian_open,wta
+2021,D. Collins,A. Bogdan,WTA316925,USA,,WTA315427,ROU,,Court 10,12,2,Women's Singles,C,wta_australian_open_2021WS115,australian_open,wta
+2021,A. Sevastova,K. Kanepi,WTA313987,LAT,,WTA110536,EST,,Court 8,10,2,Women's Singles,C,wta_australian_open_2021WS118,australian_open,wta
+2021,I. Swiatek,S. Halep,WTA326408,POL,15,WTA314320,ROU,2,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS408,australian_open,wta
+2021,A. Barty,E. Alexandrova,WTA318033,AUS,1,WTA319007,RUS,29,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS301,australian_open,wta
+2021,Z. Diyas,B. Pera,WTA315696,KAZ,,WTA317708,USA,,Court 8,10,3,Women's Singles,C,wta_australian_open_2021WS222,australian_open,wta
+2021,S. Zheng,B. Krejcikova,WTA316286,CHN,,WTA318314,CZE,,Court 12,14,3,Women's Singles,C,wta_australian_open_2021WS103,australian_open,wta
+2021,V. Zvonareva,E. Rybakina,WTA260142,RUS,,WTA324166,KAZ,17,Court 5,7,3,Women's Singles,C,wta_australian_open_2021WS160,australian_open,wta
+2021,A. Tomljanovic,S. Halep,WTA315232,AUS,,WTA314320,ROU,,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2021WS232,australian_open,wta
+2021,K. Muchova,J. Ostapenko,WTA322191,CZE,25,WTA319939,LAT,,Court 17,19,2,Women's Singles,C,wta_australian_open_2021WS113,australian_open,wta
+2021,D. Vekic,J. Brady,WTA318516,CRO,28,WTA318358,USA,22,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS403,australian_open,wta
+2021,J. Pegula,K. Mladenovic,WTA316956,USA,,WTA315616,FRA,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS307,australian_open,wta
+2021,C. Paquet,M. Sherif,WTA318839,FRA,,WTA318711,EGY,,Court 6,8,2,Women's Singles,C,wta_australian_open_2021WS123,australian_open,wta
+2021,G. Minnen,P. Kvitova,WTA321454,BEL,,WTA314206,CZE,9,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS140,australian_open,wta
+2021,B. Krejcikova,E. Alexandrova,WTA318314,CZE,,WTA319007,RUS,29,Court 16,18,2,Women's Singles,C,wta_australian_open_2021WS202,australian_open,wta
+2021,K. Boulter,D. Kasatkina,WTA319125,GBR,,WTA322082,RUS,,Court 16,18,2,Women's Singles,C,wta_australian_open_2021WS150,australian_open,wta
+2021,B. Andreescu,M. Buzarnescu,WTA325088,CAN,8,WTA312268,ROU,,John Cain Arena,3,3,Women's Singles,C,wta_australian_open_2021WS133,australian_open,wta
+2021,M. Sherif,K. Juvan,WTA318711,EGY,,WTA324702,SLO,,1573 Arena,4,3,Women's Singles,C,wta_australian_open_2021WS212,australian_open,wta
+2021,A. Riske,A. Potapova,WTA312850,USA,24,WTA325601,RUS,,Court 13,15,2,Women's Singles,C,wta_australian_open_2021WS153,australian_open,wta
+2021,A. Van Uytvanck,C. Burel,WTA317819,BEL,,WTA325320,FRA,,Court 6,8,3,Women's Singles,C,wta_australian_open_2021WS130,australian_open,wta
+2021,J. Brady,M. Brengle,WTA318358,USA,22,WTA312328,USA,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS211,australian_open,wta
+2021,J. Brady,N. Osaka,WTA318358,USA,22,WTA319998,JPN,3,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS701,australian_open,wta
+2021,Y. Wang,D. Vekic,WTA317510,CHN,,WTA318516,CRO,28,Court 5,7,3,Women's Singles,C,wta_australian_open_2021WS120,australian_open,wta
+2021,Z. Diyas,T. Zidansek,WTA315696,KAZ,,WTA323079,SLO,,Court 5,7,2,Women's Singles,C,wta_australian_open_2021WS143,australian_open,wta
+2021,A. Barty,D. Gavrilova,WTA318033,AUS,1,WTA315997,AUS,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS201,australian_open,wta
+2021,V. Kudermetova,V. Gracheva,WTA319526,RUS,32,WTA325836,RUS,,Court 7,9,3,Women's Singles,C,wta_australian_open_2021WS231,australian_open,wta
+2021,K. Muchova,Ka. Pliskova,WTA322191,CZE,25,WTA313974,CZE,6,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS304,australian_open,wta
+2021,S. Hsieh,S. Errani,WTA310053,TPE,,WTA310761,ITA,,John Cain Arena,3,3,Women's Singles,C,wta_australian_open_2021WS309,australian_open,wta
+2021,S. Kuznetsova,B. Strycova,WTA110552,RUS,,WTA190879,CZE,,Court 14,16,2,Women's Singles,C,wta_australian_open_2021WS110,australian_open,wta
+2021,G. Muguruza,L. Samsonova,WTA316239,ESP,14,WTA322222,RUS,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS221,australian_open,wta
+2021,M. Doi,A. Tomljanovic,WTA314237,JPN,,WTA315232,AUS,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS163,australian_open,wta
+2021,A. Potapova,S. Williams,WTA325601,RUS,,WTA230234,USA,10,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS314,australian_open,wta
+2021,L. Samsonova,P. Badosa,WTA322222,RUS,,WTA320124,ESP,,Court 12,14,3,Women's Singles,C,wta_australian_open_2021WS142,australian_open,wta
+2021,J. Brady,A. Bolsova,WTA318358,USA,22,WTA320735,ESP,,Court 17,19,2,Women's Singles,C,wta_australian_open_2021WS121,australian_open,wta
+2021,S. Williams,S. Halep,WTA230234,USA,10,WTA314320,ROU,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS504,australian_open,wta
+2021,C. Gauff,J. Teichmann,WTA328560,USA,,WTA320926,SUI,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS131,australian_open,wta
+2021,A. Li,S. Zhang,WTA326096,USA,,WTA311779,CHN,31,Court 8,10,2,Women's Singles,C,wta_australian_open_2021WS152,australian_open,wta
+2021,N. Podoroska,D. Vekic,WTA319112,ARG,,WTA318516,CRO,28,Court 8,10,2,Women's Singles,C,wta_australian_open_2021WS210,australian_open,wta
+2021,S. Cirstea,P. Kvitova,WTA312469,ROU,,WTA314206,CZE,9,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2021WS220,australian_open,wta
+2021,V. Gracheva,A. Blinkova,WTA325836,RUS,,WTA324267,RUS,,Court 15,17,3,Women's Singles,C,wta_australian_open_2021WS162,australian_open,wta
+2021,A. Barty,D. Kovinic,WTA318033,AUS,1,WTA317684,MNE,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS101,australian_open,wta
+2021,I. Swiatek,F. Ferro,WTA326408,POL,15,WTA319969,FRA,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS315,australian_open,wta
+2021,F. Ferro,E. Rybakina,WTA319969,FRA,,WTA324166,KAZ,17,Court 17,19,2,Women's Singles,C,wta_australian_open_2021WS230,australian_open,wta
+2021,K. Kanepi,D. Vekic,WTA110536,EST,,WTA318516,CRO,28,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2021WS305,australian_open,wta
+2021,L. Zhu,W. Osuigwe,WTA317306,CHN,,WTA326101,USA,,Court 15,17,2,Women's Singles,C,wta_australian_open_2021WS111,australian_open,wta
+2021,A. Barty,S. Rogers,WTA318033,AUS,1,WTA317421,USA,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS401,australian_open,wta
+2021,Y. Putintseva,E. Svitolina,WTA317683,KAZ,26,WTA316738,UKR,5,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS308,australian_open,wta
+2021,E. Mertens,K. Muchova,WTA317964,BEL,18,WTA322191,CZE,25,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS402,australian_open,wta
+2021,L. Fernandez,E. Mertens,WTA326735,CAN,,WTA317964,BEL,18,Court 15,17,2,Women's Singles,C,wta_australian_open_2021WS112,australian_open,wta
+2021,J. Brady,K. Juvan,WTA318358,USA,22,WTA324702,SLO,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS306,australian_open,wta
+2021,O. Jabeur,A. Schmiedlova,WTA316847,TUN,27,WTA318203,SVK,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS223,australian_open,wta
+2021,V. Kudermetova,S. Halep,WTA319526,RUS,32,WTA314320,ROU,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS316,australian_open,wta
+2021,V. Kudermetova,M. Kostyuk,WTA319526,RUS,32,WTA326482,UKR,,Court 5,7,2,Women's Singles,C,wta_australian_open_2021WS161,australian_open,wta
+2021,S. Sorribes Tormo,D. Gavrilova,WTA318872,ESP,,WTA315997,AUS,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS102,australian_open,wta
+2021,M. Bouzkova,E. Svitolina,WTA320983,CZE,,WTA316738,UKR,5,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS132,australian_open,wta
+2021,A. Cornet,V. Savinykh,WTA312121,FRA,,WTA315428,RUS,,Court 12,14,3,Women's Singles,C,wta_australian_open_2021WS151,australian_open,wta
+2021,J. Pegula,S. Stosur,WTA316956,USA,,WTA190787,AUS,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS213,australian_open,wta
+2021,G. Muguruza,M. Gasparyan,WTA316239,ESP,14,WTA317938,RUS,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS141,australian_open,wta
+2021,M. Brengle,A. Rodionova,WTA312328,USA,,WTA312413,AUS,,Court 7,9,2,Women's Singles,C,wta_australian_open_2021WS122,australian_open,wta
+2021,A. Kontaveit,H. Watson,WTA318425,EST,21,WTA316981,GBR,,John Cain Arena,3,3,Women's Singles,C,wta_australian_open_2021WS203,australian_open,wta
+2021,Y. Putintseva,A. Van Uytvanck,WTA317683,KAZ,26,WTA317819,BEL,,Court 14,16,3,Women's Singles,C,wta_australian_open_2021WS215,australian_open,wta
+2021,V. Williams,S. Errani,WTA230220,USA,,WTA310761,ITA,,John Cain Arena,3,2,Women's Singles,C,wta_australian_open_2021WS218,australian_open,wta
+2021,P. Tig,S. Cirstea,WTA317171,ROU,,WTA312469,ROU,,Court 17,19,2,Women's Singles,C,wta_australian_open_2021WS139,australian_open,wta
+2021,I. Swiatek,A. Rus,WTA326408,POL,15,WTA313349,NED,,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS157,australian_open,wta
+2021,S. Hsieh,T. Pironkova,WTA310053,TPE,,WTA311041,BUL,,Court 13,15,2,Women's Singles,C,wta_australian_open_2021WS134,australian_open,wta
+2021,D. Collins,Ka. Pliskova,WTA316925,USA,,WTA313974,CZE,6,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS208,australian_open,wta
+2021,A. Barty,K. Muchova,WTA318033,AUS,1,WTA322191,CZE,25,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS501,australian_open,wta
+2021,B. Bencic,S. Kuznetsova,WTA319001,SUI,11,WTA110552,RUS,,Margaret Court Arena,2,3,Women's Singles,C,wta_australian_open_2021WS205,australian_open,wta
+2021,K. Juvan,J. Konta,WTA324702,SLO,,WTA313907,GBR,13,Court 15,17,1,Women's Singles,R,wta_australian_open_2021WS124,australian_open,wta
+2021,P. Hercog,C. Garcia,WTA313968,SLO,,WTA315391,FRA,,Court 17,19,2,Women's Singles,C,wta_australian_open_2021WS147,australian_open,wta
+2021,Y. Putintseva,S. Stephens,WTA317683,KAZ,26,WTA315683,USA,,Court 7,9,3,Women's Singles,C,wta_australian_open_2021WS129,australian_open,wta
+2021,M. Barthel,E. Cocciaretto,WTA315365,GER,,WTA327909,ITA,,Court 16,18,3,Women's Singles,C,wta_australian_open_2021WS114,australian_open,wta
+2021,J. Pegula,E. Svitolina,WTA316956,USA,,WTA316738,UKR,5,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS404,australian_open,wta
+2021,N. Podoroska,C. McHale,WTA319112,ARG,,WTA314917,USA,,Court 14,16,2,Women's Singles,C,wta_australian_open_2021WS119,australian_open,wta
+2021,B. Bencic,L. Davis,WTA319001,SUI,11,WTA317414,USA,,1573 Arena,4,3,Women's Singles,C,wta_australian_open_2021WS109,australian_open,wta
+2021,M. Vondrousova,S. Cirstea,WTA323027,CZE,19,WTA312469,ROU,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS310,australian_open,wta
+2021,M. Trevisan,E. Alexandrova,WTA316266,ITA,,WTA319007,RUS,29,Court 16,18,2,Women's Singles,C,wta_australian_open_2021WS104,australian_open,wta
+2021,A. Sabalenka,D. Kasatkina,WTA320760,BLR,7,WTA322082,RUS,,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS225,australian_open,wta
+2021,N. Stojanovic,S. Williams,WTA319709,SRB,,WTA230234,USA,10,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS228,australian_open,wta
+2021,F. Jones,S. Rogers,WTA324479,GBR,,WTA317421,USA,,Court 10,12,2,Women's Singles,C,wta_australian_open_2021WS107,australian_open,wta
+2021,L. Cabrera,S. Halep,WTA320013,AUS,,WTA314320,ROU,2,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS164,australian_open,wta
+2021,A. Sabalenka,A. Li,WTA320760,BLR,7,WTA326096,USA,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS313,australian_open,wta
+2021,A. Cornet,A. Li,WTA312121,FRA,,WTA326096,USA,,Court 8,10,2,Women's Singles,C,wta_australian_open_2021WS226,australian_open,wta
+2021,B. Bencic,E. Mertens,WTA319001,SUI,11,WTA317964,BEL,18,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS303,australian_open,wta
+2021,A. Sabalenka,S. Williams,WTA320760,BLR,7,WTA230234,USA,10,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS407,australian_open,wta
+2021,S. Kenin,M. Inglis,WTA320942,USA,4,WTA321179,AUS,,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS117,australian_open,wta
+2021,L. Zhu,E. Mertens,WTA317306,CHN,,WTA317964,BEL,18,1573 Arena,4,2,Women's Singles,C,wta_australian_open_2021WS206,australian_open,wta
+2021,J. Brady,J. Pegula,WTA318358,USA,22,WTA316956,USA,,Rod Laver Arena,1,3,Women's Singles,C,wta_australian_open_2021WS502,australian_open,wta
+2021,A. Sabalenka,V. Kuzmova,WTA320760,BLR,7,WTA322277,SVK,,Court 3,5,2,Women's Singles,C,wta_australian_open_2021WS149,australian_open,wta
+2021,N. Hibino,A. Sharma,WTA320238,JPN,,WTA319696,AUS,,Court 3,5,3,Women's Singles,C,wta_australian_open_2021WS127,australian_open,wta
+2021,B. Pera,A. Kerber,WTA317708,USA,,WTA311470,GER,23,Margaret Court Arena,2,2,Women's Singles,C,wta_australian_open_2021WS144,australian_open,wta
+2021,C. Gauff,E. Svitolina,WTA328560,USA,,WTA316738,UKR,5,Rod Laver Arena,1,2,Women's Singles,C,wta_australian_open_2021WS216,australian_open,wta
+2021,T. Babos,Y. Bonaventure,WTA317070,HUN,,WTA317317,BEL,,Court 12,14,2,Women's Singles,C,wta_australian_open_2021WS154,australian_open,wta
+2021,M. Vondrousova,R. Peterson,WTA323027,CZE,19,WTA317771,SWE,,Court 3,5,3,Women's Singles,C,wta_australian_open_2021WS137,australian_open,wta
+2021,F. Ferro,K. Siniakova,WTA319969,FRA,,WTA320301,CZE,,Court 16,18,3,Women's Singles,C,wta_australian_open_2021WS159,australian_open,wta
