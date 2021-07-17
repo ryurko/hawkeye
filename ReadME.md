@@ -1,6 +1,6 @@
 ### Read ME
 
-This repo contains tracking data in tennis, scraped from CourtVision. To link data files and reconstruct an entire match, you will need to link files from all of the `ball_trajectory`, `play_by_play`and `misc` directories.
+This repo contains tracking data in tennis, scraped from CourtVision. To link data files and reconstruct an entire match, you will need to link files from all of the `ball_trajectory`, `play_by_play`and `misc` directories. Check out the example script `djokovic_example.R` for an application.
 
 Currently, there exists over 800 matches available from both ATP and WTA. These matches are from the 2019, 2020, 2021 Roland Garros and 2020, 2021 Australian Open.
 
